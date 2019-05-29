@@ -55,19 +55,19 @@
 	},
 	"animator_Ara":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) deux fois. NL Si l'ennemi a un Debuff, piochez deux cartes, puis défaussez 1 carte.",
+		"DESCRIPTION": "Infligez !D! dégât(s) deux fois. NL Si l'ennemi a une Altération, piochez deux cartes, puis défaussez 1 carte.",
 		"NAME": "Ara"
 	},
 	"animator_Archer":
 	{
-		"DESCRIPTION": "À la fin de votre tour, infligez !D! dégât(s) à TOUS les ennemis pour chaque Debuff qu'ils ont. Augmente avec la Force.",
+		"DESCRIPTION": "À la fin de votre tour, infligez !D! dégât(s) à TOUS les ennemis pour chaque Altération qu'ils ont. Augmente avec la Force.",
 		"NAME": "Archer"
 	},
 	"animator_Arpeggio":
 	{
-		"DESCRIPTION": "Canalisez 1 Terre. NL Gagnez 1 de Concentration. NL Épuisement.",
+		"DESCRIPTION": "Canalisez 1 Orbe de Terre. NL Gagnez 1 de Concentration. NL Épuisement.",
 		"NAME": "Arpeggio",
-		"UPGRADE_DESCRIPTION": "Canalisez 1 Terre. NL Gagnez 1 emplacement d'Orbe. NL Gagnez 1 de Concentration. NL Épuisement."
+		"UPGRADE_DESCRIPTION": "Canalisez 1 Orbe de Terre. NL Gagnez 1 emplacement d'Orbe. NL Gagnez 1 de Concentration. NL Épuisement."
 	},
 	"animator_Asuramaru":
 	{
@@ -81,7 +81,7 @@
 	},
 	"animator_Benimaru":
 	{
-		"DESCRIPTION": "Canalisez 1 Feu. NL Infligez !D! dégât(s) à TOUS les ennemis. Synergie: Appliquez !M! Brûlure.",
+		"DESCRIPTION": "Canalisez 1 Orbe de Feu. NL Infligez !D! dégât(s) à TOUS les ennemis. Synergie: Appliquez !M! Brûlure.",
 		"NAME": "Benimaru"
 	},
 	"animator_Berserker":
@@ -91,7 +91,7 @@
 	},
 	"animator_Biyorigo":
 	{
-		"DESCRIPTION": "Gagnez 1 d'Artéfact. NL Toutes les 4 Attaques jouées, Gagnez !M! Force et 1 Dextérité.",
+		"DESCRIPTION": "Gagnez 1 Artéfact. NL Toutes les 4 Attaques jouées, Gagnez !M! de Force et 1 de Dextérité.",
 		"NAME": "Biyorigo"
 	},
 	"animator_BlackLotus":
@@ -106,7 +106,7 @@
 	},
 	"animator_Caster":
 	{
-		"DESCRIPTION": "[#EFC851]Activez votre première Orbe. NL [#EFC851]Canalisez 1 Tenèbre. NL Boost !SV! : L'ennemi perd !M! Force.",
+		"DESCRIPTION": "[#EFC851]Activez votre première Orbe. NL [#EFC851]Canalisez 1 Orbe de Tenèbres. NL Boost !SV! : L'ennemi perd !M! de Force.",
 		"NAME": "Caster"
 	},
 	"animator_ChaikaBohdan":
@@ -122,31 +122,31 @@
 	},
 	"animator_ChlammyZell":
 	{
-		"DESCRIPTION": "Quand vous jouez des cartes de type différent, Recyclez 1 carte et Infligez !M! dégât(s) à TOUS les ennemis.",
+		"DESCRIPTION": "Quand vous jouez des cartes de types différents, Recyclez 1 carte et Infligez !M! dégât(s) à TOUS les ennemis.",
 		"NAME": "Kurami",
-		"UPGRADE_DESCRIPTION": "Inné. Quand vous jouez des cartes de type différent, Recyclez 1 carte et Infligez !M! dégât(s) à TOUS les ennemis."
+		"UPGRADE_DESCRIPTION": "Inné. Quand vous jouez des cartes de types différents, Recyclez 1 carte et Infligez !M! dégât(s) à TOUS les ennemis."
 	},
 	"animator_Chris":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Volez !M! [#EFC851]Or ([#EFC851]*[#FFFFFF]). NL Cooldown !SV! : Piochez une [#EFC851]0-Cost[] carte.",
-		"EXTENDED_DESCRIPTION": ["* Note", "Vous pouvez voler jusqu'a 50 #yOr d'un boss, 25 #yOr d'un elite, ou 10 #yOr d'un non-minion ennemi."],
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Volez !M! [#EFC851]Or ([#EFC851]*[#FFFFFF]). NL Cooldown !SV! : Piochez une carte de coùt [#EFC851]0.",
+		"EXTENDED_DESCRIPTION": ["* Note", "Vous pouvez voler jusqu'a 50 #yOr d'un boss, 25 #yOr d'un elite, ou 10 #yOr d'un ennemi non-invoqué."],
 		"NAME": "Chris"
 	},
 	"animator_Chung":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Cooldown !SV! : NL Canalisez 1 Plasma.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Cooldown !SV! : NL Canalisez 1 Orbe de Plasma.",
 		"NAME": "Chung"
 	},
 	"animator_Cocytus":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL [#EFC851]Absorbez [#EFC851]Armure. NL Synergie: Augmentez les dommages de cette carte de !M! pour ce combat.",
-		"EXTENDED_DESCRIPTION": ["Absorbez Armure", "Gagnez autant d'Armure que votre ennemi durant cette attaque."],
+		"DESCRIPTION": "Infligez !D! dégât(s). NL [#EFC851]Absorbeur [#EFC851]d'Armure. NL Synergie: Augmentez les dommages de cette carte de !M! pour ce combat.",
+		"EXTENDED_DESCRIPTION": ["Absorbeur d'Armure", "Gagnez autant d'Armure que votre ennemi en perd durant cette attaque."],
 		"NAME": "Cocytus"
 	},
 	"animator_CowGirl":
 	{
-		"DESCRIPTION": "Gagnez [E]. NL Gagnez !M! Temp._PV. Épuisement.",
-		"NAME": "'Cow Girl'"
+		"DESCRIPTION": "Gagnez [E]. NL Gagnez !M! temp._pv. Épuisement.",
+		"NAME": "Cow Girl"
 	},
 	"animator_CrowleyEusford":
 	{
@@ -155,10 +155,10 @@
 	},
 	"animator_Darkness":
 	{
-		"DESCRIPTION": "Gagnez !M! d'Armure_Plaquée. Chaque fois que prenez des dégât(s), Amélioré !M! carte(s) aléatoire(s) ([#EFC851]*[#FFFFFF]).",
-		"EXTENDED_DESCRIPTION": ["* Note", "Priorise les cartes de votre main."],
+		"DESCRIPTION": "Gagnez !M! d'Armure_Plaquée. Chaque fois que prenez des dégât(s), Améliorez !M! carte(s) aléatoire(s) ([#EFC851]*[#FFFFFF]).",
+		"EXTENDED_DESCRIPTION": ["* Note", "En priorité les cartes de votre main."],
 		"NAME": "Darkness",
-		"UPGRADE_DESCRIPTION": "Gagnez !M! d'Armure_Plaquée. Chaque fois que prenez des dégât(s), Amélioré !M! carte(s) aléatoire(s) ([#EFC851]*[#FFFFFF])."
+		"UPGRADE_DESCRIPTION": "Gagnez !M! d'Armure_Plaquée. Chaque fois que prenez des dégât(s), Améliorez !M! carte(s) aléatoire(s) ([#EFC851]*[#FFFFFF])."
 	},
 	"animator_Defend":
 	{
@@ -168,170 +168,170 @@
 	"animator_Defend_AccelWorld":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Rappel: Gagnez !M! d'Armure.",
-		"NAME": "Défense Amélioré"
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_Elsword":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Au prochain tour, Gagnez !M! d'Armure.",
-		"NAME": "Défense Amélioré"
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_Fate":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! d'Armure supplémentaire pour chaque ennemi.",
-		"NAME": "Défense Amélioré"
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_FullmetalAlchemist":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Cooldown !SV!: NL [#EFC851]Canalisez 1 Givre.",
-		"NAME": "Défense Amélioré"
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Cooldown !SV!: NL [#EFC851]Canalisez 1 Orbe de Givre.",
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_GATE":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Conservez.",
-		"NAME": "Défense Amélioré"
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Conservation.",
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_GoblinSlayer":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisement.",
-		"NAME": "Défense Amélioré"
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_HitsugiNoChaika":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Recyclez 1 carte.",
-		"NAME": "Défense Amélioré"
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_Kancolle":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Boost !SV! : Gagnez !M! [#EFC851]Or.",
-		"NAME": "Défense Amélioré"
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_Katanagatari":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! [#EFC851]Épines temporaire.",
-		"NAME": "Défense Amélioré"
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! [#EFC851]Épines temporaires.",
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_Konosuba":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Boost !SV! : Soignez !M! PV.",
-		"NAME": "Défense Amélioré"
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_NoGameNoLife":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Conservez votre carte jouable la plus à gauche.",
-		"NAME": "Défense Amélioré"
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_Overlord":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Augmentez l'Armure de cettte carte de !M! pour ce combat.",
-		"NAME": "Défense Amélioré"
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Augmentez l'Armure de cette carte de !M! pour ce combat.",
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_OwariNoSeraph":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Héritage: Appliquez !M! Faiblesse à TOUS les ennemis.",
-		"NAME": "Défense Amélioré"
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Héritage: Appliquez !M! de Faiblesse à TOUS les ennemis.",
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Defend_TenSura":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure deux fois.",
-		"NAME": "Défense Amélioré"
+		"NAME": "Défense Améliorée"
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "Gagnez [E]. NL Prendre !M! dégâts à la fin de votre tour. NL Héritage: Gagnez [E].",
+		"DESCRIPTION": "Gagnez [E]. NL Subissez !M! dégâts à la fin de votre tour. NL Héritage: Gagnez [E].",
 		"NAME": "Demiurge",
-		"UPGRADE_DESCRIPTION": "Gagnez [E] [E]. NL Prendre !SV! dégâts à la fin de votre tour. NL Héritage: Gagnez [E] [E]."
+		"UPGRADE_DESCRIPTION": "Gagnez [E] [E]. NL Subissez !SV! dégâts à la fin de votre tour. NL Héritage: Gagnez [E] [E]."
 	},
 	"animator_DolaCouronne":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Synergie: Piochez 1 carte. NL Héritage: Gagnez 1 Dextérité.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Synergie: Piochez 1 carte. NL Héritage: Gagnez 1 de Dextérité.",
 		"NAME": "Couronne"
 	},
 	"animator_DolaRiku":
 	{
-		"DESCRIPTION": "Épuisez une carte dans votre main, choisissez et obtenez 1 carte parmis !M! carte(s) de la même raretée, elle coûte 1 en moins.",
+		"DESCRIPTION": "Épuisez une carte dans votre main, choisissez et obtenez 1 carte parmis !M! carte(s) de la même raretée, elles coûtent 1 en moins.",
 		"NAME": "Riku"
 	},
 	"animator_DolaSchwi":
 	{
-		"DESCRIPTION": "Appliquez !M! Ciblage. NL Canalisez 1 Foudre. NL Cooldown !SV! : NL Infligez !D! dégât(s).",
+		"DESCRIPTION": "Appliquez !M! Ciblage. NL Canalisez 1 Orbe Kéraunique. NL Cooldown !SV! : NL Infligez !D! dégât(s).",
 		"NAME": "Schwi"
 	},
 	"animator_DolaStephanie":
 	{
-		"DESCRIPTION": "Choisissez une carte dans votre main, Chercher 1 carte avec la même Synergie dans votre pioche. Épuisement.",
+		"DESCRIPTION": "Choisissez une carte dans votre main, Cherchez 1 carte avec la même Synergie dans votre pioche. Épuisement.",
 		"NAME": "Stephanie",
 		"UPGRADE_DESCRIPTION": "Choisissez une carte dans votre main, Chercher 1 carte avec la même Synergie dans votre pioche."
 	},
 	"animator_DwarfShaman":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL [#EFC851]Canalisez 1 Terre. NL Synergie: Active la capacité passive de votre prochaine orbe.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL [#EFC851]Canalisez 1 Orbe de Terre. NL Synergie: Active la capacité passive de votre prochaine orbe.",
 		"NAME": "'Dwarf Shaman'"
 	},
 	"animator_Elesis":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). Conservez. Augmentez les dégâts de cette carte de !M! pour chaque tour passé dans votre main.",
+		"DESCRIPTION": "Infligez !D! dégât(s). Conservation. Augmentez les dégâts de cette carte de !M! pour chaque tour passé dans votre main.",
 		"NAME": "Elesis"
 	},
 	"animator_ElricAlphonse":
 	{
-		"DESCRIPTION": "[#EFC851]Éthérée. Gagnez !M! Concentration temporaire. NL Héritage: Obtain [#EFC851]Armored [#EFC851]Alphonse.",
+		"DESCRIPTION": "[#EFC851]Éthérée. Gagnez !M! de Concentration temporaire. NL Héritage: Obtenez [#EFC851]Alphonse [#EFC851]en [#EFC851]Armure.",
 		"NAME": "Alphonse Elric",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Éthérée. Gagnez !M! Concentration temporaire. NL Héritage: Obtain [#EFC851]Armored [#EFC851]Alphonse+."
+		"UPGRADE_DESCRIPTION": "[#EFC851]Éthérée. Gagnez !M! de Concentration temporaire. NL Héritage: Obtenez [#EFC851]Alphonse [#EFC851]en [#EFC851]Armure+."
 	},
 	"animator_ElricAlphonseAlt":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! d'Armure_Plaquée. NL Synergie: [#EFC851]Canalisez[] 1 Foudre.",
-		"NAME": "Armored Alphonse"
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! d'Armure_Plaquée. NL Synergie: [#EFC851]Canalisez[] 1 Orbe Kéraunique.",
+		"NAME": "Alphonse en Armure"
 	},
 	"animator_ElricEdward":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Recyclez 1 carte. NL Active un [#EFC851]Effet [#EFC851]Bonus en fonction de la carte que vous avez recycler.",
-		"EXTENDED_DESCRIPTION": ["Effet Bonus", "#yAttack: Canalisez 1 #yFoudre NL #yCompétence(s): Canalisez 1 #yGivre NL #yPower: Canalisez 1 #yTerre"],
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Recyclez 1 carte. NL Active un [#EFC851]Effet [#EFC851]Bonus en fonction de la carte que vous avez recyclée.",
+		"EXTENDED_DESCRIPTION": ["Effet Bonus", "#yAttaque: Canalisez 1 #yOrbe #yKéraunique NL #yCompétence: Canalisez 1 #yOrbe #yde #yGivre NL #yPouvoir: Canalisez 1 #yOrbe #yde #yTerre"],
 		"NAME": "Edward Elric"
 	},
 	"animator_Elsword":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Recyclez !M! card. Rappel: Canalisez 1 Feu.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Recyclez !M! carte(s). Rappel: Canalisez 1 Orbe de Feu.",
 		"NAME": "Elsword",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Recyclez !M! carte(s). Rappel: Canalisez 1 Feu."
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Recyclez !M! carte(s). Rappel: Canalisez 1 Orbe de Feu."
 	},
 	"animator_EmiyaShirou":
 	{
-		"DESCRIPTION": "Donnez à un ennemi aléatoire NL !M! d'Armure et 1 Vulnérabilité. [#EFC851]Unlimited [#EFC851]Blade [#EFC851]Works.",
+		"DESCRIPTION": "Donnez à un ennemi aléatoire NL !M! d'Armure et 1 de Vulnérabilité. [#EFC851]Unlimited [#EFC851]Blade [#EFC851]Works.",
 		"EXTENDED_DESCRIPTION": ["Unlimited Blade Works", "Chaque fois qu'un ennemi perd son Armure, Gagnez 1 #yEnergy et piochez une #yAttack aléatoire de votre pioche."],
 		"NAME": "Emiya Shirou"
 	},
 	"animator_Emonzaemon":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) Perçant deux fois. NL Héritage: Obtain NL [#EFC851]Entou [#EFC851]Jyuu.",
-		"EXTENDED_DESCRIPTION": ["Entou Jyuu", "A special 1-Cost #yPower, which costs 0 when upgraded."],
+		"DESCRIPTION": "Infligez !D! dégât(s) Perçant(s) deux fois. NL Héritage: Obtenez NL [#EFC851]Entou [#EFC851]Jyuu.",
+		"EXTENDED_DESCRIPTION": ["Entou Jyuu", "Un #yPouvoir spécial qui coûte 1, coûte 0 si amélioré."],
 		"NAME": "Emonzaemon",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) Perçant deux fois. NL Héritage: Obtain NL [#EFC851]Entou [#EFC851]Jyuu+."
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) Perçant(s) deux fois. NL Héritage: Obtenez NL [#EFC851]Entou [#EFC851]Jyuu+."
 	},
 	"animator_Entoma":
 	{
-		"DESCRIPTION": "Augmentable. NL Infligez !D! dégât(s). NL Appliquez !M! Poison. [#EFC851]Faim.",
-		"EXTENDED_DESCRIPTION": ["Faim", "Perdez #b1 dégât(s) chaque tour. Si l'ennemi (non-minion) succombe, Améliorer de manière permanente cette carte et Gagnez #b2 PV Max."],
+		"DESCRIPTION": "Augmentable. NL Infligez !D! dégât(s). NL Appliquez !M! de Poison. [#EFC851]Faim.",
+		"EXTENDED_DESCRIPTION": ["Faim", "Perdez #b1 dégât(s) chaque tour. Si l'ennemi (non-invoqué) succombe, Améliorez de manière permanente cette carte et Gagnez #b2 PV Max."],
 		"NAME": "Entoma"
 	},
 	"animator_EntouJyuu":
 	{
-		"DESCRIPTION": "Deux fois par tour, après que vous ayez joué une [#EFC851]Attaque, augmentez ces dégât(s) de !M! pour ce combat et piochez une carte.",
+		"DESCRIPTION": "Deux fois par tour, après que vous ayez joué une [#EFC851]Attaque, augmentez ses dégât(s) de !M! pour ce combat et piochez une carte.",
 		"NAME": "Entou Jyuu"
 	},
 	"animator_Envy":
 	{
-		"DESCRIPTION": "Changeforme. Soignez 1 PV par tranche de !M! PV manquants. La première carte que vous jouez chaque tour Synergize.",
+		"DESCRIPTION": "Changeforme. Soigne 1 PV par tranche de !M! PV manquants. La première carte que vous jouez chaque tour Synergise.",
 		"NAME": "Envy"
 	},
 	"animator_Eris":
 	{
-		"DESCRIPTION": "Resurrection. NL Soignez !M! PV. NL Épuisement.",
+		"DESCRIPTION": "Resurrection. NL Soigne !M! PV. NL Épuisement.",
 		"NAME": "Eris"
 	},
 	"animator_Eve":
 	{
-		"DESCRIPTION": "Jouer un Noyau_d'orbe. NL Quand vous effectuez une Synergie, Infligez !M! dégât(s) à un ennemi et augmentez ces dégât(s) par 1.",
+		"DESCRIPTION": "Jouer un Noyau_d'orbe. NL Quand vous effectuez une Synergie, Infligez !M! dégât(s) à un ennemi et augmentez ces dégât(s) de 1.",
 		"NAME": "Eve"
 	},
 	"animator_Evileye":
@@ -341,15 +341,15 @@
 	},
 	"animator_Excalibur":
 	{
-		"DESCRIPTION": "Conservez. Épuise TOUTES les [#EFC851]Attaques de votre main et Gagnez leurs dégât(s). Infligez !D! dégât(s) à TOUS les ennemis.",
+		"DESCRIPTION": "Conservation. Épuise TOUTES les [#EFC851]Attaques de votre main et Gagnez leurs dégât(s). Infligez !D! dégât(s) à TOUS les ennemis.",
 		"NAME": "Excalibur"
 	},
 	"animator_FeridBathory":
 	{
-		"DESCRIPTION": "Une fois par tour, NL quand une carte est Épuisé, Gagnez 1 Force et Soignez 2 PV ([#EFC851]*[]).",
-		"EXTENDED_DESCRIPTION": ["*Note", "Si vos PV sont au Max, le soin est converti en Temp._PV."],
+		"DESCRIPTION": "Une fois par tour, NL quand une carte est Épuisée, Gagnez 1 de Force et Soignez 2 PV ([#EFC851]*[]).",
+		"EXTENDED_DESCRIPTION": ["*Note", "Si vos PV sont au Max, le soin est converti en temp._pv."],
 		"NAME": "Ferid Bathory",
-		"UPGRADE_DESCRIPTION": "Deux fois par tour, NL quand une carte est Épuisé, Gagnez 1 Force et Soignez 2 PV ([#EFC851]*[])."
+		"UPGRADE_DESCRIPTION": "Deux fois par tour, NL quand une carte est Épuisée, Gagnez 1 de Force et Soignez 2 PV ([#EFC851]*[])."
 	},
 	"animator_Fredrika":
 	{
@@ -358,51 +358,51 @@
 		[
 			"Changeforme. NL Gagnez !B! d'Armure.",
 			"Changeforme. NL Infligez !D! dégât(s) deux fois. Gagnez 2 de Métallisation.",
-			"Changeforme. NL Infligez !D! dégât(s). NL Appliquez 1 Vulnérabilité. NL Appliquez 1 Faiblesse."
+			"Changeforme. NL Infligez !D! dégât(s). NL Appliquez 1 de Vulnérabilité. NL Appliquez 1 de Faiblesse."
 		],
 		"NAME": "Fredrika"
 	},
 	"animator_GazelDwargon":
 	{
-		"DESCRIPTION": "Gardez la moitiée de votre Armure au début de chaque tour. Quand vous jouez une [#EFC851]Attack[], Gagnez !M! d'Armure.",
+		"DESCRIPTION": "Gardez la moitié de votre Armure au début de chaque tour. Quand vous jouez une [#EFC851]Attack[], Gagnez !M! d'Armure.",
 		"NAME": "Gazel Dwargon"
 	},
 	"animator_Gilgamesh":
 	{
 		"DESCRIPTION": "Augmentable. NL Infligez !D! dégât(s) à un ennemi 3 fois. NL [#EFC851]Gate [#EFC851]of [#EFC851]Babylon.",
-		"EXTENDED_DESCRIPTION": ["Gate of Babylon", "Quand vous obtenez une relique, #yAmélioré cette carte et Gagnez #b", " #yOr. Ne s'active pas à l'achat de relique et dans certains events."],
+		"EXTENDED_DESCRIPTION": ["Gate of Babylon", "Quand vous obtenez une relique, #yAméliorez cette carte et Gagnez #b", " #yOr. Ne s'active pas à l'achat de relique et dans certains evènements."],
 		"NAME": "Gilgamesh"
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Au prochain tour, Gagnez [E]. Rappel: Appliquez !M! Faiblesse à TOUS les ennemis.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Au prochain tour, Gagnez [E]. Rappel: Appliquez !M! de Faiblesse à TOUS les ennemis.",
 		"NAME": "Gillette"
 	},
 	"animator_Gluttony":
 	{
-		"DESCRIPTION": "Épuise jusqu'a !M! Cartes de votre main, active un [#EFC851]Effet [#EFC851]Bonus pour chaque type de carte. Épuisement.",
-		"EXTENDED_DESCRIPTION": ["Bonus Effect", "#yAttack: Gagnez 1 Force NL #yCompétence(s): Gagnez 6 #yTemporary #yPV NL #yPower: Soignez 7 PV NL #yStatus: Gagnez 1 Energie NL #yCurse: Gagnez 6 d'Armure"],
-		"NAME": "Gourmandise"
+		"DESCRIPTION": "Épuisez jusqu'a !M! Cartes de votre main, active un [#EFC851]Effet [#EFC851]Bonus pour chaque type de carte. Épuisement.",
+		"EXTENDED_DESCRIPTION": ["Effet Bonus", "#yAttaque: Gagnez 1 de Force NL #yCompétence: Gagnez 6 #yPV #yTemporaires NL #yPouvoir: Soignez 7 PV NL #yStatus: Gagnez 1 Energie NL #yMalédiction: Gagnez 6 d'Armure"],
+		"NAME": "Gluttony"
 	},
 	"animator_GoblinChampion":
 	{
-		"DESCRIPTION": "A la fin de votre tour, mélanger 1 Goblin aléatoire dans votre pioche.",
+		"DESCRIPTION": "A la fin de votre tour, ajoutez 1 Goblin aléatoire dans votre pioche.",
 		"NAME": "Champion Goblin"
 	},
 	"animator_GoblinKing":
 	{
-		"DESCRIPTION": "A la fin de votre tour, mélanger 3 Goblins aléatoires dans votre pioche.",
+		"DESCRIPTION": "A la fin de votre tour, ajoutez 3 Goblins aléatoires dans votre pioche.",
 		"NAME": "Roi Goblin"
 	},
 	"animator_GoblinShaman":
 	{
-		"DESCRIPTION": "Quand vous piochez cette carte, piochez une autre carte. A la fin de votre tour, Gagnez 1 Fragilisé.",
-		"NAME": "Goblin Chaman"
+		"DESCRIPTION": "Quand vous piochez cette carte, piochez une autre carte. A la fin de votre tour, Gagnez 1 de Fragilité.",
+		"NAME": "Chaman Goblin"
 	},
 	"animator_GoblinSlayer":
 	{
-		"DESCRIPTION": "[#EFC851]Goblin [#EFC851]Slayer. NL Infligez !D! dégât(s). NL Gagnez !B! d'Armure. NL Conservez.",
-		"EXTENDED_DESCRIPTION": ["Goblin Slayer", "Épuisez tous les Status et Malédiction de votre main et Défausse. Infligez 3 dégât(s) supplémentaire pour chaque cartes épuisé. NL #yWARNING: Des Goblins seront ajoutés a votre Deck."],
+		"DESCRIPTION": "[#EFC851]Goblin [#EFC851]Slayer. NL Infligez !D! dégât(s). NL Gagnez !B! d'Armure. NL Conservation.",
+		"EXTENDED_DESCRIPTION": ["Goblin Slayer", "Épuisez tous les Status et Malédictions de votre main et Défausse. Infligez 3 dégâts supplémentaires pour chaque carte épuisée. NL #yATTENTION: Des Goblins seront ajoutés a votre Deck."],
 		"NAME": "Goblin Slayer"
 	},
 	"animator_GoblinSoldier":
@@ -413,17 +413,17 @@
 	"animator_Greed":
 	{
 		"DESCRIPTION": "Gagnez !SV! d'Armure_Plaquée. NL Gagnez !M! de Métallisation. NL Gagnez 3 Malleable. NL [#EFC851]Greed[].",
-		"EXTENDED_DESCRIPTION": ["Greed", "Si cette carte est dans votre deck au début du combat, gagnez #b8 #yOr quand joué. Cette carte coute 1 d'énergie en moins pour chaque #b100 #yOr que vous avez."],
+		"EXTENDED_DESCRIPTION": ["Greed", "Si cette carte est dans votre deck au début du combat, gagnez #b8 #yOr quand elle est jouée. Cette carte coute 1 d'énergie en moins pour chaque #b100 #yOr que vous avez."],
 		"NAME": "Greed"
 	},
 	"animator_GuildGirl":
 	{
-		"DESCRIPTION": "Au début de chaque tour, Recyclez 1 carte. NL Quand ennemi non-minion meurt, Gagnez !M! [#EFC851]Or.",
-		"NAME": "'Guild Girl'"
+		"DESCRIPTION": "Au début de chaque tour, Recyclez 1 carte. NL Quand un ennemi non-invoqué meurt, Gagnez !M! [#EFC851]Or.",
+		"NAME": "Guild Girl"
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une [#EFC851]Attaque aléatoire de votre main. Transformé ces dégât(s) en Support_Damage.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une [#EFC851]Attaque aléatoire de votre main. Transformez ses dégât(s) en Support_Damage.",
 		"NAME": "Guren"
 	},
 	"animator_Guy":
@@ -434,9 +434,9 @@
 	},
 	"animator_Hakurou":
 	{
-		"DESCRIPTION": "Artiste_martial. Infligez !D! dégât(s) !M! fois. NL [#EFC851]Pioché: Gagnez !SV! Dextérité Temporaire.",
+		"DESCRIPTION": "Artiste_martial. Infligez !D! dégât(s) !M! fois. NL [#EFC851]Piochée: Gagnez !SV! de Dextérité Temporaire.",
 		"NAME": "Hakurou",
-		"UPGRADE_DESCRIPTION": "Artiste_martial. Infligez !D! dégât(s) !M! fois. Piochez et améliorez une carte. [#EFC851]Pioché: Gagnez !SV! Dextérité Temporaire."
+		"UPGRADE_DESCRIPTION": "Artiste_martial. Infligez !D! dégât(s) !M! fois. Piochez et améliorez une carte. [#EFC851]Piochée: Gagnez !SV! de Dextérité Temporaire."
 	},
 	"animator_HigakiRinne":
 	{
@@ -447,26 +447,26 @@
 	},
 	"animator_HighElfArcher":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. Boost !SV! : Piochez !M! carte(s).",
-		"NAME": "'Archère Haut Elfe'"
+		"DESCRIPTION": "Infligez !D! dégât(s) Perçant(s). Boost !SV! : Piochez !M! carte(s).",
+		"NAME": "'Archère Haut-Elfe'"
 	},
 	"animator_HiiragiShinya":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Si c'est votre première [#EFC851]Attaque ce tour, appliquez un [#EFC851]Debuff aléatoire.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Si c'est votre première [#EFC851]Attaque ce tour, appliquez une [#EFC851]Altération aléatoire.",
 		"NAME": "Shinya Hiiragi",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL If this is your first [#EFC851]Attaque ce tour, appliquez un [#EFC851]Debuff Amélioré aléatoire."
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Si c'est votre première [#EFC851]Attaque ce tour, appliquez une [#EFC851]Altération Améliorée aléatoire."
 	},
 	"animator_Hitei":
 	{
-		"DESCRIPTION": "Gagnez [#EFC851]Buff aléatoire au début de votre tour, puis Épuisé 1 parmis !M! carte(s) aléatoire dans votre pioche ou Défausse.",
+		"DESCRIPTION": "Gagnez une [#EFC851]Amélioration aléatoire au début de votre tour, puis Épuisez 1 carte parmis !M! carte(s) aléatoire(s) dans votre pioche ou Défausse.",
 		"NAME": "Hitei"
 	},
 	"animator_HououinKyouma":
 	{
-		"DESCRIPTION": "Choisissez 1 carte que vous avez jouée pour ce combat et ajoutez une copie à votre main ([#EFC851]*[#FFFFFF]). Purge.",
+		"DESCRIPTION": "Choisissez 1 carte que vous avez jouée pour ce combat et ajoutez en une copie à votre main ([#EFC851]*[#FFFFFF]). Purge.",
 		"EXTENDED_DESCRIPTION": ["* Note", "Vous ne pouvez choisir une copie de cette carte. Cela créerai un Paradox"],
 		"NAME": "Hououin Kyouma",
-		"UPGRADE_DESCRIPTION": "Choisissez 1 carte que vous avez jouée pour ce combat et ajoutez une copie à votre main([#EFC851]*[#FFFFFF]), elle coûte 1 en moins ce tour. Purge."
+		"UPGRADE_DESCRIPTION": "Choisissez 1 carte que vous avez jouée pour ce combat et ajoutez en une copie à votre main([#EFC851]*[#FFFFFF]), elle coûte 1 de moins ce tour. Purge."
 	},
 	"animator_Illya":
 	{
@@ -475,15 +475,15 @@
 	},
 	"animator_ItamiYouji":
 	{
-		"DESCRIPTION": "Piochez !M! carte(s). NL Synergie: Piochez 1 carte en plus. NL Infligez !D! dégât(s) pour chaque carte pioché. ",
+		"DESCRIPTION": "Piochez !M! carte(s). NL Synergie: Piochez 1 carte en plus. NL Infligez !D! dégât(s) pour chaque carte piochée. ",
 		"NAME": "Itami Youji"
 	},
 	"animator_IzunaHatsuse":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez 1 Faiblesse. NL [#EFC851]Blood [#EFC851]Destruction.",
-		"EXTENDED_DESCRIPTION": ["Blood Destruction", "Tant que vous êtes en dessous de 25% max PV, cette carte deviendra une carte #yAttaque qui coûte 0.", "Infligez !D! dégât(s) deux fois. NL Soignez !M! PV."],
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez 1 de Faiblesse. NL [#EFC851]Blood [#EFC851]Destruction.",
+		"EXTENDED_DESCRIPTION": ["Blood Destruction", "Tant que vous êtes en dessous de 25% PV Max, cette carte devient une carte #yAttaque qui coûte 0.", "Infligez !D! dégât(s) deux fois. NL Soignez !M! PV."],
 		"NAME": "Izuna Hatsuse",
-		"UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez 1 Faiblesse. NL [#EFC851]Blood [#EFC851]Destruction+."
+		"UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez 1 de Faiblesse. NL [#EFC851]Blood [#EFC851]Destruction+."
 	},
 	"animator_Jibril":
 	{
@@ -509,18 +509,18 @@
 	},
 	"animator_Konayuki":
 	{
-		"DESCRIPTION": "Si vous avez au moins 10 Force, Infligez !D! dégât(s), sinon Gagnez !M! Force.",
+		"DESCRIPTION": "Si vous avez au moins 10 de Force, Infligez !D! dégât(s), sinon Gagnez !M! de Force.",
 		"NAME": "Konayuki"
 	},
 	"animator_KrulTepes":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Faiblesse. NL Si ça tue un Elite ou un Boss obtenez une NL [#EFC851]Blood [#EFC851]Vial ([#EFC851]*[#FFFFFF]).",
-		"EXTENDED_DESCRIPTION": ["* Note", "La relique sera reçu en fin de combat. Une relique max par combat. Vous pouvez avoir plusieurs Blood Vial."],
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Faiblesse. NL Si ça tue un Elite ou un Boss obtenez une NL [#EFC851]Fiole [#EFC851]de [#EFC851]Sang ([#EFC851]*[#FFFFFF]).",
+		"EXTENDED_DESCRIPTION": ["* Note", "La relique sera reçu en fin de combat. Une relique max par combat. Vous pouvez avoir plusieurs Fioles de Sang."],
 		"NAME": "Krul Tepes"
 	},
 	"animator_Kuribayashi":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !SV! Choked. NL Synergie: L'ennemi perd !M! de Force NL ce tour.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !SV! d'Etranglement. NL Synergie: L'ennemi perd !M! de Force NL ce tour.",
 		"NAME": "Kuribayashi"
 	},
 	"animator_Kuroyukihime":
@@ -531,25 +531,25 @@
 	},
 	"animator_Kyubey":
 	{
-		"DESCRIPTION": "Gagnez [E] [E]. NL Piochez !M! Cartes. NL Ajouter 2 [#EFC851]Malédiction aléatoire à votre Défausse.",
+		"DESCRIPTION": "Gagnez [E] [E]. NL Piochez !M! Cartes. NL Ajouter 2 [#EFC851]Malédictions aléatoires à votre Défausse.",
 		"NAME": "Kyubey",
-		"UPGRADE_DESCRIPTION": "Gagnez [E] [E] [E]. NL Piochez !M! Cartes. NL Ajouter 2 [#EFC851]Malédiction aléatoire à votre Défausse."
+		"UPGRADE_DESCRIPTION": "Gagnez [E] [E] [E]. NL Piochez !M! Cartes. NL Ajouter 2 [#EFC851]Malédictions aléatoires à votre Défausse."
 	},
 	"animator_Lancer":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. ChercheCoeur. NL Synergie: Gagnez [E].",
+		"DESCRIPTION": "Infligez !D! dégât(s) Perçant(s). ChercheCoeur. NL Synergie: Gagnez [E].",
 		"NAME": "Lancer"
 	},
 	"animator_Layla":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. Rechargement: Appliquez !M! Poison à un ennemi aléatoire.",
+		"DESCRIPTION": "Infligez !D! dégât(s) Perçant(s). Rechargement: Appliquez !M! de Poison à un ennemi aléatoire.",
 		"NAME": "Layla"
 	},
 	"animator_LeleiLaLalena":
 	{
-		"DESCRIPTION": "Canalisez !M! Givre. NL Synergie: Appliquez !SV! Faiblesse à TOUS les ennemis.",
+		"DESCRIPTION": "Canalisez !M! Orbe de Givre. NL Synergie: Appliquez !SV! de Faiblesse à TOUS les ennemis.",
 		"NAME": "Lelei La Lalena",
-		"UPGRADE_DESCRIPTION": "Canalisez !M! Givre. NL Recyclez 1 carte. NL Synergie: Appliquez !SV! Faiblesse à TOUS les ennemis."
+		"UPGRADE_DESCRIPTION": "Canalisez !M! Orbe de Givre. NL Recyclez 1 carte. NL Synergie: Appliquez !SV! de Faiblesse à TOUS les ennemis."
 	},
 	"animator_Lelouch":
 	{
@@ -566,11 +566,11 @@
 	"animator_LizardPriest":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. Met l'Armure d'un ennemi à !M!. NL Synergie: Conservez !SV! cartes.",
-		"NAME": "'Prêtre Lézard'"
+		"NAME": "Prêtre Lézard"
 	},
 	"animator_MaesHughes":
 	{
-		"DESCRIPTION": "Piochez 1 card et réduisez son coût de !M! ce tour. Héritage: Infligez !D! dégât(s) à TOUS les ennemis.",
+		"DESCRIPTION": "Piochez 1 carte et réduisez son coût de !M! ce tour. Héritage: Infligez !D! dégât(s) à TOUS les ennemis.",
 		"NAME": "Maes Hughes"
 	},
 	"animator_Megumin":
@@ -580,29 +580,29 @@
 	},
 	"animator_Mikaela":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Poison. NL Epuisé une carte de votre Défausse.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Poison. NL Epuisez une carte de votre Défausse.",
 		"NAME": "Mikaela"
 	},
 	"animator_Millim":
 	{
 		"DESCRIPTION": "Augmentable. [#EFC851]Unique. NL Infligez !D! dégât(s). NL Piochez !M! Cartes. NL Synergie: Gagnez [E].",
-		"EXTENDED_DESCRIPTION": ["Unique", "Vous ne pouvez avoir qu'une copie de cettte carte, les autre copie #yUpgraded cet carte à la place."],
+		"EXTENDED_DESCRIPTION": ["Unique", "Vous ne pouvez avoir qu'une copie de cettte carte, les autres copies #yAméliorent cet carte à la place."],
 		"NAME": "Millim"
 	},
 	"animator_MisaKurobane":
 	{
-		"DESCRIPTION": "Canalisez 1 Feu. NL Piochez !M! carte. NL Placez une copie de [#EFC851]Yusarin dans la défausse. NL Épuisement.",
+		"DESCRIPTION": "Canalisez 1 Orbe de Feu. NL Piochez !M! carte. NL Placez une copie de [#EFC851]Yusarin dans votre défausse. NL Épuisement.",
 		"NAME": "Misa Kurobane",
-		"UPGRADE_DESCRIPTION": "Canalisez 1 Feu. NL Piochez !M! cartes. NL Placez une copie de [#EFC851]Yusarin dans la défausse. NL Épuisement."
+		"UPGRADE_DESCRIPTION": "Canalisez 1 Orbe de Feu. NL Piochez !M! cartes. NL Placez une copie de [#EFC851]Yusarin dans votre défausse. NL Épuisement."
 	},
 	"animator_Mitsuba":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi a de PV que vous, Gagnez !B! d'Armure. Héritage: Piochez !M! Cartes.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi a plus de PV que vous, Gagnez !B! d'Armure. Héritage: Piochez !M! Cartes.",
 		"NAME": "Mitsuba"
 	},
 	"animator_Mitsurugi":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s), peut seulement être utilisé si l'ennemi va attaquer. Héritage: Gagnez !M! Force.",
+		"DESCRIPTION": "Infligez !D! dégât(s), peut seulement être utilisé si l'ennemi va attaquer. Héritage: Gagnez !M! de Force.",
 		"EXTENDED_DESCRIPTION": ["L'ennemi ne prévois pas d'attaquer."],
 		"NAME": "Mitsurugi"
 	},
@@ -614,16 +614,16 @@
 	},
 	"animator_Nanami":
 	{
-		"DESCRIPTION": "[#EFC851]Contre l'intension de l'ennemi. NL [#c6be6f]Ce [#c6be6f]text [#c6be6f]changera [#c6be6f]en [#c6be6f]ciblant [#c6be6f]un [#c6be6f]ennemi.",
-		"EXTENDED_DESCRIPTION": ["Infligez # dégât(s).", "Gagnez # d'Armure.", "Gagnez # Force.", "Appliquez # Faiblesse.", "Appliquez # Vulnérabilité.", "Assome l'ennemi.", "Canalisez # Orb(s) Aléatoire.", "UNUSED", "UNUSED", "Appliquez # Poison.", "Gagnez [E].", "Gagnez # Temp._PV.", "Piochez # carte(s)."],
+		"DESCRIPTION": "[#EFC851]Contre l'intension de l'ennemi. NL [#c6be6f]Ce [#c6be6f]texte [#c6be6f]changera [#c6be6f]en [#c6be6f]ciblant [#c6be6f]un [#c6be6f]ennemi.",
+		"EXTENDED_DESCRIPTION": ["Infligez # dégât(s).", "Gagnez # d'Armure.", "Gagnez # de Force.", "Appliquez # de Faiblesse.", "Appliquez # de Vulnérabilité.", "Assome l'ennemi.", "Canalisez # Orbe(s) Aléatoire(s).", "UNUSED", "UNUSED", "Appliquez # de Poison.", "Gagnez [E].", "Gagnez # temp._pv.", "Piochez # carte(s)."],
 		"NAME": "Nanami",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Contre FORTEMENT l'intension de l'ennemi. NL [#c6be6f]Ce [#c6be6f]text [#c6be6f]changera [#c6be6f]en [#c6be6f]ciblant [#c6be6f]un [#c6be6f]ennemi."
+		"UPGRADE_DESCRIPTION": "[#EFC851]Contre FORTEMENT l'intension de l'ennemi. NL [#c6be6f]Ce [#c6be6f]texte [#c6be6f]changera [#c6be6f]en [#c6be6f]ciblant [#c6be6f]un [#c6be6f]ennemi."
 	},
 	"animator_NarberalGamma":
 	{
-		"DESCRIPTION": "Changeforme. NL Canalisez !M! Foudre.",
+		"DESCRIPTION": "Changeforme. NL Canalisez !M! Orbe Kéraunique.",
 		"NAME": "Gamma Narberal",
-		"UPGRADE_DESCRIPTION": "Changeforme. NL Canalisez !M! Foudre. NL Foudre touche TOUS les ennemi ce tour."
+		"UPGRADE_DESCRIPTION": "Changeforme. NL Canalisez !M! Orbe Kéraunique. NL Les Orbes Kérauniques touche TOUS les ennemis ce tour."
 	},
 	"animator_OrbCore_Chaos":
 	{
@@ -632,27 +632,27 @@
 	},
 	"animator_OrbCore_Dark":
 	{
-		"DESCRIPTION": "Canalisez 1 Tenèbre. NL Après la seconde Synergie de chaque tour,NL piochez !M! carte(s), puis Défaussez 1 carte.",
-		"NAME": "Noyau de Tenèbre"
+		"DESCRIPTION": "Canalisez 1 Orbe de Tenèbres. NL Après la seconde Synergie de chaque tour,NL piochez !M! carte(s), puis Défaussez 1 carte.",
+		"NAME": "Noyau de Tenèbres"
 	},
 	"animator_OrbCore_Fire":
 	{
-		"DESCRIPTION": "Canalisez 1 Feu. NL Après la seconde Synergie de chaque tour,NL infligez !M! Brûlure à TOUS les ennemis.",
+		"DESCRIPTION": "Canalisez 1 Orbe de Feu. NL Après la seconde Synergie de chaque tour,NL infligez !M! Brûlure à TOUS les ennemis.",
 		"NAME": "Noyau de Feu"
 	},
 	"animator_OrbCore_Frost":
 	{
-		"DESCRIPTION": "Canalisez 1 Givre. NL Après la seconde Synergie de chaque tour,NL Gagnez !M! d'Armure.",
+		"DESCRIPTION": "Canalisez 1 Orbe de Givre. NL Après la seconde Synergie de chaque tour,NL Gagnez !M! d'Armure.",
 		"NAME": "Noyau de Gel"
 	},
 	"animator_OrbCore_Lightning":
 	{
-		"DESCRIPTION": "Canalisez 1 Foudre. NL Après la seconde Synergie de chaque tour,NL Infligez !M! dégât(s) à TOUS les ennemis.",
+		"DESCRIPTION": "Canalisez 1 Orbe Kéraunique. NL Après la seconde Synergie de chaque tour,NL Infligez !M! dégât(s) à TOUS les ennemis.",
 		"NAME": "Noyau de Foudre"
 	},
 	"animator_OrbCore_Plasma":
 	{
-		"DESCRIPTION": "Canalisez 1 Plasma. NL Après la seconde Synergie de chaque tour,NL Gagnez [E].",
+		"DESCRIPTION": "Canalisez 1 Orbe de Plasma. NL Après la seconde Synergie de chaque tour,NL Gagnez [E].",
 		"NAME": "Noyau de Plasma"
 	},
 	"animator_PandorasActor":
@@ -664,29 +664,29 @@
 	{
 		"DESCRIPTION": "La première carte [#EFC851]Coûtant [#EFC851]0  que vous jouez chaque tour est jouée deux fois.",
 		"NAME": "Pina Co Lada",
-		"UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL La première carte [#EFC851]0-Cost que vous jouez chaque tour est jouée deux fois."
+		"UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL La première carte [#EFC851]coûtant [#EFC851]0 que vous jouez chaque tour est jouée deux fois."
 	},
 	"animator_Pride":
 	{
-		"DESCRIPTION": "Changeforme. [#EFC851]Fierté. NL [#EFC851]Canalisez !M! [#EFC851]Tenèbre NL Synergie: Appliquez !SV! de Constriction.",
-		"EXTENDED_DESCRIPTION": ["Fierté", "Jusqu'a votre prochain tour, quand vous subissez dégât(s) non bloqué, votre Orbe de #yTenèbre la plus à droite perd autant en dommage à la place."],
-		"NAME": "Fierté"
+		"DESCRIPTION": "Changeforme. [#EFC851]Pride. NL [#EFC851]Canalisez !M! [#EFC851]Orbe [#EFC851]de [#EFC851]Tenèbres NL Synergie: Appliquez !SV! de Constriction.",
+		"EXTENDED_DESCRIPTION": ["Pride", "Jusqu'a votre prochain tour, quand vous subissez des dégâts non bloqués, votre Orbe de #yTenèbres la plus à droite perd autant en dommage à la place."],
+		"NAME": "Pride"
 	},
 	"animator_Priestess":
 	{
-		"DESCRIPTION": "Gagnez !B! Temp._PV ([#EFC851]*[]). Synergie: Gagnez !M! [#EFC851]Regeneration[], peut s'activer !SV! fois.",
+		"DESCRIPTION": "Gagnez !B! temp._pv ([#EFC851]*[]). Synergie: Gagnez !M! [#EFC851]Regeneration[], peut s'activer !SV! fois.",
 		"EXTENDED_DESCRIPTION": ["* Note", "Affecté par les modifieurs d'Armure."],
-		"NAME": "'Prêtresse'"
+		"NAME": "Prêtresse"
 	},
 	"animator_QuestionMark":
 	{
-		"DESCRIPTION": "Quand pioché, devient une carte aléatoire et gagne Changeforme.",
-		"NAME": "Question Mark",
-		"UPGRADE_DESCRIPTION": "Quand pioché, devient une carte aléatoire amélioré et gagne Changeforme."
+		"DESCRIPTION": "Quand piochée, devient une carte aléatoire et gagne Changeforme.",
+		"NAME": "Point d'Interogation",
+		"UPGRADE_DESCRIPTION": "Quand piochée, devient une carte aléatoire améliorée et gagne Changeforme."
 	},
 	"animator_Raven":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Faiblesse. NL Piochez votre carte [#EFC851]Attack avec le moins de dégats.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Faiblesse. NL Piochez votre carte [#EFC851]Attaque avec le moins de dégats.",
 		"NAME": "Raven"
 	},
 	"animator_Rena":
@@ -696,9 +696,9 @@
 	},
 	"animator_Rimuru":
 	{
-		"DESCRIPTION": "Devient la copie de la dernière carte joué.",
+		"DESCRIPTION": "Devient la copie de la dernière carte jouée.",
 		"NAME": "Rimuru",
-		"UPGRADE_DESCRIPTION": "Conservez. Devient la copie de la dernière carte joué."
+		"UPGRADE_DESCRIPTION": "Conservation. Devient la copie de la dernière carte jouée."
 	},
 	"animator_RinTohsaka":
 	{
@@ -707,19 +707,19 @@
 	},
 	"animator_RoryMercury":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire 2 fois. NL [#EFC851]Drawn[]: Gagnez !M! de Force temporaire.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire 2 fois. NL [#EFC851]Piochée: Gagnez !M! de Force temporaire.",
 		"NAME": "Rory Mercury"
 	},
 	"animator_RoyMustang":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis et Canalisez 1 Feu pour chaque ennemis. NL Synergie: Gagnez !M! Barrière_de_Flamme.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis et Canalisez 1 Orbe de Feu pour chaque ennemis. NL Synergie: Gagnez !M! Barrière_de_Flamme.",
 		"NAME": "Roy Mustang"
 	},
 	"animator_Saber":
 	{
-		"DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergize !M! fois, Purge et obtenez [#EFC851]Excalibur.",
+		"DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergise !M! fois, Purge et obtenez [#EFC851]Excalibur.",
 		"NAME": "Saber",
-		"UPGRADE_DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergizes !M! fois, Purge et obtenez [#EFC851]Excalibur+."
+		"UPGRADE_DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergise !M! fois, Purge et obtenez [#EFC851]Excalibur+."
 	},
 	"animator_Saitama":
 	{
@@ -728,8 +728,8 @@
 	},
 	"animator_Scar":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
-		"EXTENDED_DESCRIPTION": ["Dragon's Pulse", "Si cette carte tue un ennemi (non-minion), #ypurgez cette carte et #yaméliorez de manière permanente une carte aléatoire de votre deck"],
+		"DESCRIPTION": "Infligez !D! dégât(s) Perçant(s). NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
+		"EXTENDED_DESCRIPTION": ["Dragon's Pulse", "Si cette carte tue un ennemi (non-invoqué), #ypurgez cette carte et #yaméliorez de manière permanente une carte aléatoire de votre deck"],
 		"NAME": "Scar"
 	},
 	"animator_Sebas":
@@ -739,19 +739,19 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "[#EFC851]Bloodlust. NL Infligez !D! dégât(s). NL Synergie: Volez !M! Force.",
-		"EXTENDED_DESCRIPTION": ["Bloodlust", "Si cette carte tue un ennemi (non-minion), soignez 5 PV et Gagnez [E]"],
+		"DESCRIPTION": "[#EFC851]Bloodlust. NL Infligez !D! dégât(s). NL Synergie: Volez !M! de Force.",
+		"EXTENDED_DESCRIPTION": ["Bloodlust", "Si cette carte tue un ennemi (non-invoqué), soignez 5 PV et Gagnez [E]"],
 		"NAME": "Shalltear"
 	},
 	"animator_Shichika":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez 1 Force. NL Synergie: Ajoutez [#EFC851]Kyotouryuu[] à votre main.",
-		"EXTENDED_DESCRIPTION": ["Kyotouryuu", "A special 1-cost attack that hits multiple times and Exhaust."],
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez 1 de Force. NL Synergie: Ajoutez [#EFC851]Kyotouryuu[] à votre main.",
+		"EXTENDED_DESCRIPTION": ["Kyotouryuu", "Une carte attaque de coût 1 frappant plusieurs fois et qui s'épuise."],
 		"NAME": "Shichika"
 	},
 	"animator_ShichikaKyotouryuu":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) 4 fois. Si vous avez au moins 3 Dextérité, piochez 1 carte et Gagnez [E]. Éthérée. Épuisement.",
+		"DESCRIPTION": "Infligez !D! dégât(s) 4 fois. Si vous avez au moins 3 de Dextérité, piochez 1 carte et Gagnez [E]. Éthérée. Épuisement.",
 		"NAME": "Kyotouryuu"
 	},
 	"animator_Shigure":
@@ -761,49 +761,49 @@
 	},
 	"animator_Shimakaze":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !B! d'Armure. NL Piochez !M! carte(s). NL Mélangé 1 Dazed de votre pioche.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !B! d'Armure. NL Piochez !M! carte(s). NL Ajoutez 1 Dazed à votre pioche.",
 		"NAME": "Shimakaze"
 	},
 	"animator_Shinoa":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez !M! Vulnérabilité à TOUS les ennemis. Synergie: Applique aussi !M! Faiblesse.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez !M! de Vulnérabilité à TOUS les ennemis. Synergie: Applique aussi !M! de Faiblesse.",
 		"NAME": "Shinoa"
 	},
 	"animator_Shiro":
 	{
-		"DESCRIPTION": "Coûte 1 de moins pour chaque Synergie de ce tour. Gagnez [E] à chaque début de tour.",
+		"DESCRIPTION": "Coûte 1 de moins pour chaque Synergie ce tour. Gagnez [E] à chaque début de tour.",
 		"NAME": "Shiro"
 	},
 	"animator_Shizu":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez Arme_Enflammée. NL Si cela tue l'ennemi, soigne le montant de Brûlure sur l'ennemi.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez Arme_Enflammée. NL Si cela tue l'ennemi, soigne du montant de Brûlure sur l'ennemi.",
 		"NAME": "Shizu"
 	},
 	"animator_Shuna":
 	{
-		"DESCRIPTION": "Piochez 2 carte(s). Synergie: NL Gagnez !M! Temp._PV. NL [#EFC851]Pioché: Gagnez !B! d'Armure.",
+		"DESCRIPTION": "Piochez 2 carte(s). Synergie: NL Gagnez !M! temp._pv. NL [#EFC851]Piochée: Gagnez !B! d'Armure.",
 		"NAME": "Shuna"
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégât(s). NL Appliquez !M! de Vulnérable. NL [#EFC851]Paresse.",
-		"EXTENDED_DESCRIPTION": ["Paresse", "Au début de chaque tour, augmentez le montant #yd'Armure and de dégâts par 2, et par 1 pour chaque unique Orbe que vous avez. Après l'utilisation, diminuez les dégâts et le montant #y d'Armure de cette carte de moitié."],
-		"NAME": "Paresse"
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégât(s). NL Appliquez !M! de Vulnérable. NL [#EFC851]Sloth.",
+		"EXTENDED_DESCRIPTION": ["Sloth", "Au début de chaque tour, augmentez le montant #yd'Armure et de dégâts de 2, et de 1 pour chaque Orbe unique que vous avez. Après l'utilisation, diminuez les dégâts et le montant #y d'Armure de cette carte de moitié."],
+		"NAME": "Sloth"
 	},
 	"animator_Sora":
 	{
-		"DESCRIPTION": "Choisissez !M! Effet personnalisé. Synergie: Choisissez 1 Effect en plus.",
+		"DESCRIPTION": "Choisissez !M! Effet personnalisé. Synergie: Choisissez 1 Effet en plus.",
 		"NAME": "Sora"
 	},
 	"animator_Souei":
 	{
-		"DESCRIPTION": "Appliquez !M! Poison. NL Activé le Poison de TOUT les ennemis. Si l'un d'eux meurt, Gagnez Intangible.",
+		"DESCRIPTION": "Appliquez !M! de Poison. NL Activez le Poison de TOUT les ennemis. Si l'un d'eux meurt, Gagnez Intangible.",
 		"NAME": "Souei"
 	},
 	"animator_Spearman":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Boost !SV! : Gagnez !M! Dextérité.",
-		"NAME": "'Lancier'"
+		"NAME": "Lancer"
 	},
 	"animator_Strike":
 	{
@@ -813,87 +813,87 @@
 	},
 	"animator_Strike_AccelWorld":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Rappel: Infligez !M! dégât(s) to un ennemi aléatoire.",
-		"NAME": "Frappe Amélioré"
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Rappel: Infligez !M! dégât(s) à un ennemi aléatoire.",
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_Elsword":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! Force jusqu'a la fin du tour.",
-		"NAME": "Frappe Amélioré"
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! de Force jusqu'a la fin du tour.",
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_Fate":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) Perçant.",
-		"NAME": "Frappe Amélioré"
+		"DESCRIPTION": "Infligez !D! dégât(s) Perçant(s).",
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_FullmetalAlchemist":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Cooldown !SV!: NL Canalisez 1 Foudre.",
-		"NAME": "Frappe Amélioré"
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Cooldown !SV!: NL Canalisez 1 Orbe Kéraunique.",
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_GATE":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Au prochain tour, piochez une carte.",
-		"NAME": "Frappe Amélioré"
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_GoblinSlayer":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Épuisement.",
-		"NAME": "Frappe Amélioré"
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_HitsugiNoChaika":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Poison.",
-		"NAME": "Frappe Amélioré"
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Poison.",
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_Kancolle":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Boost !SV! : Gagnez !M! [#EFC851]Or.",
-		"NAME": "Frappe Amélioré"
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_Katanagatari":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Si vous avez moins de 3 cartes dans votre main, NL Gagnez [E].",
-		"NAME": "Frappe Amélioré"
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_Konosuba":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Boost !SV! : Soignez !M! PV.",
-		"NAME": "Frappe Amélioré"
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_NoGameNoLife":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Conservez votre carte jouable la plus à droite.",
-		"NAME": "Frappe Amélioré"
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_Overlord":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Augmentez les dégâts de cette carte de !M! pour ce combat.",
-		"NAME": "Frappe Amélioré"
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_OwariNoSeraph":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Héritage: Appliquez !M! Vulnérabilité à TOUS les ennemis.",
-		"NAME": "Frappe Amélioré"
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Héritage: Appliquez !M! de Vulnérabilité à TOUS les ennemis.",
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_Strike_TenSura":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! Temp._PV.",
-		"NAME": "Frappe Amélioré"
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! temp._pv.",
+		"NAME": "Frappe Améliorée"
 	},
 	"animator_SwordMaiden":
 	{
-		"DESCRIPTION": "Gagnez !M! Temp._PV. NL Enlève TOUS vos Debuff. Épuisement.",
-		"NAME": "'Sword Maiden'"
+		"DESCRIPTION": "Gagnez !M! temp._pv. NL Enlève TOUTES vos altérations. Épuisement.",
+		"NAME": "Sword Maiden"
 	},
 	"animator_TanyaDegurechaff":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Défaussez TOUTES les [#EFC851]Compétences and gagnez !M! d'Armure pour chacune d'elles. Héritage: Obtenez [#EFC851]Type [#EFC851]95.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Défaussez TOUTES vos [#EFC851]Compétences and gagnez !M! d'Armure pour chacune d'elles. Héritage: Obtenez [#EFC851]Type [#EFC851]95.",
 		"NAME": "Tanya Degurechaff"
 	},
 	"animator_TanyaDegurechaff_Type95":
 	{
-		"DESCRIPTION": "Recyclez 2 cartes. Conservez TOUTES les [#EFC851]Attaques. Au prochain tour, vos [#EFC851]Attaques will causeront le double des dégâts. Épuisement.",
+		"DESCRIPTION": "Recyclez 2 cartes. Conservez TOUTES les [#EFC851]Attaques. Au prochain tour, vos [#EFC851]Attaques causeront le double des dégâts. Épuisement.",
 		"NAME": "Type 95"
 	},
 	"animator_Tet":
@@ -903,17 +903,17 @@
 	},
 	"animator_ThrowingKnife_0":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Faiblesse. NL Épuisement. Rappel: Joue cette carte.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Faiblesse. NL Épuisement. Rappel: Joue cette carte.",
 		"NAME": "Couteau de Jet"
 	},
 	"animator_ThrowingKnife_1":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Vulnérabilité. NL Épuisement. Rappel: Joue cette carte.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Vulnérabilité. NL Épuisement. Rappel: Joue cette carte.",
 		"NAME": "Couteau de Jet"
 	},
 	"animator_ThrowingKnife_2":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Poison. NL Épuisement. Rappel: Joue cette carte.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Poison. NL Épuisement. Rappel: Joue cette carte.",
 		"NAME": "Couteau de Jet"
 	},
 	"animator_Togame":
@@ -928,14 +928,14 @@
 	},
 	"animator_Tyuule":
 	{
-		"DESCRIPTION": "Appliquez !M! Poison et 1 Vulnérabilité à TOUS les ennemis. NL Boost !SV! : Gagnez [E]",
+		"DESCRIPTION": "Appliquez !M! de Poison et 1 de Vulnérabilité à TOUS les ennemis. NL Boost !SV! : Gagnez [E]",
 		"NAME": "Tyuule"
 	},
 	"animator_Urushihara":
 	{
-		"DESCRIPTION": "Paresseux. NL Canalisez 1 Tenèbre. NL Infligez !D! dégât(s) à TOUS les ennemis.",
+		"DESCRIPTION": "Paresseux. NL Canalisez 1 Orbe de Tenèbres. NL Infligez !D! dégât(s) à TOUS les ennemis.",
 		"NAME": "Urushihara",
-		"UPGRADE_DESCRIPTION": "Moins Paresseux. NL Canalisez 1 Tenèbre. NL Infligez !D! dégât(s) à TOUS les ennemis."
+		"UPGRADE_DESCRIPTION": "Moins Paresseux. NL Canalisez 1 Orbe de Tenèbres. NL Infligez !D! dégât(s) à TOUS les ennemis."
 	},
 	"animator_Vanir":
 	{
@@ -956,7 +956,7 @@
 	},
 	"animator_Vesta_Elixir_1":
 	{
-		"DESCRIPTION": "Gagnez !M! de Force. NL Gagnez !SV! de Dextérité. NL Gagnez 6 de Temp._PV. NL Épuisement.",
+		"DESCRIPTION": "Gagnez !M! de Force. NL Gagnez !SV! de Dextérité. NL Gagnez 6 de temp._pv. NL Épuisement.",
 		"NAME": "Élixir"
 	},
 	"animator_Vesta_Elixir_2":
@@ -976,15 +976,15 @@
 	},
 	"animator_Witch":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Synergie: Appliquez !M! Brûlure. NL Héritage: Obtenez une Potion aléatoire.",
-		"NAME": "'Sorcière'"
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Synergie: Appliquez !M! de Brûlure. NL Héritage: Obtenez une Potion aléatoire.",
+		"NAME": "Sorcière"
 	},
 	"animator_Wiz":
 	{
-		"DESCRIPTION": "Épuisé 1 carte, choisissez une carte Épuisé et ajouté en une copie à votre main ([#EFC851]*[#FFFFFF]). Purge.",
-		"EXTENDED_DESCRIPTION": ["* Note", "Vous ne pouvez récupéré une Wiz."],
+		"DESCRIPTION": "Épuisez 1 carte, choisissez une carte Épuisée et ajoutez en une copie à votre main ([#EFC851]*[#FFFFFF]). Purge.",
+		"EXTENDED_DESCRIPTION": ["* Note", "Vous ne pouvez récupérer une Wiz."],
 		"NAME": "Wiz",
-		"UPGRADE_DESCRIPTION": "Épuisé 1 carte, choisissez une carte Épuisé et ajouté en une copie à votre main ([#EFC851]*[#FFFFFF]). Purge after !M! uses."
+		"UPGRADE_DESCRIPTION": "Épuisez 1 carte, choisissez une carte Épuisée et ajouté en une copie à votre main ([#EFC851]*[#FFFFFF]). Purge après !M! utilisations."
 	},
 	"animator_YaoHaDucy":
 	{
@@ -993,13 +993,13 @@
 	},
 	"animator_YukoShionji":
 	{
-		"DESCRIPTION": "Révélé la première carte de votre deck. Une fois par tour, vous la piocher ou la défaussé ([#EFC851]*[#FFFFFF]).",
-		"EXTENDED_DESCRIPTION": ["* Note", "#pLeft-Click sur la carte pour la piocher ou #pRight-Click pour la défaussé."],
+		"DESCRIPTION": "Révélez la première carte de votre deck. Une fois par tour, vous la piochez ou la défaussez ([#EFC851]*[#FFFFFF]).",
+		"EXTENDED_DESCRIPTION": ["* Note", "#pClic-Gauche sur la carte pour la piocher ou #pClic-Droit pour la défausser."],
 		"NAME": "Yuuko Shionji"
 	},
 	"animator_YunYun":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. Coûte 1 de moins pour chaque [#EFC851]Attaque dans votre main.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. Coûte 1 de plus pour chaque [#EFC851]Attaque dans votre main.",
 		"NAME": "YunYun"
 	},
 	"animator_Yusarin":
@@ -1009,14 +1009,14 @@
 	},
 	"animator_Yuuichirou":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! Dextérité temporaire.NL Héritage: Obtenez [#EFC851]Asuramaru.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! de Dextérité temporaire.NL Héritage: Obtenez [#EFC851]Asuramaru.",
 		"EXTENDED_DESCRIPTION": ["Asuramaru", "Une carte #yAttaque spéciale qui coûte 1."],
 		"NAME": "Yuuichirou",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! Dextérité temporaire. NL Héritage: Obtenez [#EFC851]Asuramaru+."
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! de Dextérité temporaire. NL Héritage: Obtenez [#EFC851]Asuramaru+."
 	},
 	"animator_ZankiKiguchi":
 	{
-		"DESCRIPTION": "Artiste_martiale NL Infligez !D! dégât(s). NL Synergie: Converti !M! d'Armure en 1 Dextérité.",
+		"DESCRIPTION": "Artiste_martiale NL Infligez !D! dégât(s). NL Synergie: Converti !M! d'Armure en 1 de Dextérité.",
 		"NAME": "Zanki Kiguchi"
 	},
 	"animator_Zero":
@@ -1027,24 +1027,24 @@
 	},
 	"animator_Azriel":
 	{
-		"DESCRIPTION": "Gagne 2 Vol. NL Quand vous infligez un debuff à un ennemi, gagnez !M! Force. Éthérée.",
+		"DESCRIPTION": "Gagne 2 de Vol. NL Quand vous infligez une altération à un ennemi, gagnez !M! de Force. Éthérée.",
 		"NAME": "Azriel",
-		"UPGRADE_DESCRIPTION": "Gagne 2 Vol. NL Quand vous infligez un debuff à un ennemi, gagnez !M! Force."
+		"UPGRADE_DESCRIPTION": "Gagne 2 Vol. NL Quand vous infligez une altération à un ennemi, gagnez !M! de Force."
 	},
 	"animator_Giselle":
 	{
-		"DESCRIPTION": "Ingligez !D! dégat(s). NL Infligez !M! Brûlure. NL Dégats triplé sur les ennemis qui ont moins de !SV! HP.",
+		"DESCRIPTION": "Ingligez !D! dégat(s). NL Infligez !M! de Brûlure. NL Dégats triplés sur les ennemis qui ont moins de !SV! PV.",
 		"NAME": "Giselle"
 	},
 	"animator_HiiragiTenri":
 	{
-		"DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse. Épuisement.",
+		"DESCRIPTION": "Gagnez !M! temp._pv. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse. Épuisement.",
 		"NAME": "Tenri Hiiragi",
-		"UPGRADE_DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse."
+		"UPGRADE_DESCRIPTION": "Gagnez !M! temp._pv. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse."
 	},
 	"animator_SirTouchMe":
 	{
-		"DESCRIPTION": "Ingligez !D! dégat(s). NL Gagnez !M! Juggernaut. NL Gagnez !B! d'Armure. NL Gagnez !SV! d'Armure_Plaquée.",
+		"DESCRIPTION": "Infligez !D! dégat(s). NL Gagnez !M! Juggernaut. NL Gagnez !B! d'Armure. NL Gagnez !SV! d'Armure_Plaquée.",
 		"NAME": "Sir Touch Me"
 	},
 	"animator_ShikizakiKiki":
@@ -1054,33 +1054,33 @@
 	},
 	"animator_Chomusuke":
 	{
-		"DESCRIPTION": "Conservez. Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour( !SV! ). Ne peut être utilisé qu'une fois par tour.",
+		"DESCRIPTION": "Conservation. Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour( !SV! ). Ne peut être utilisé qu'une fois par tour.",
 		"NAME": "Chomusuke"
 	},
 	"animator_JeanneDArc":
 	{
-		"DESCRIPTION": "Infligez !D! dégat(s). NL Gagnez !M! Temp._HP. NL Gagnez !M! d'Armure_Enchantée. NL Épuisez une Malédiction ou Status aléatoire.",
+		"DESCRIPTION": "Infligez !D! dégat(s). NL Gagnez !M! temp._pv. NL Gagnez !M! d'Armure_Enchantée. NL Épuisez une Malédiction ou un Status aléatoire.",
 		"NAME": "Jeanne D'Arc"
 	},
 	"animator_Hero":
 	{
-		"DESCRIPTION": "Infligez !D! dégat(s). NL Piochez !M! carte(s). NL Tant que présent dans votre deck, augmente les chances [#EFC851]Reliques [#EFC851]Bonus.",
+		"DESCRIPTION": "Infligez !D! dégat(s). NL Piochez !M! carte(s). NL Tant qu'elle est présente dans votre deck, augmente les chances de [#EFC851]Reliques [#EFC851]Bonus.",
 		"NAME": "'Hero'"
 	},
 	"animator_Truth":
 	{
-		"DESCRIPTION": "Gagnez 1 Concentration. NL Gagnez 2 Energie. NL Piochez 3 cartes. NL Gagnez 4 Force. NL [#EFC851]Vérité[].",
+		"DESCRIPTION": "Gagnez 1 de Concentration. NL Gagnez 2 Energie. NL Piochez 3 cartes. NL Gagnez 4 de Force. NL [#EFC851]Vérité[].",
 		"NAME": "Vérité",
 		"EXTENDED_DESCRIPTION": ["Vérité", " Si vous avez au moins 3 Orbes uniques, supprimez toutes vos Orbes. Sinon, remplacez de manière permanente une carte au choix de votre deck par une #yPlaie."]
 	},
 	"animator_Rose":
 	{
-		"DESCRIPTION": "Piochez !M! carte(s). NL Rechargement: Infligez !D! dégats Perçant. Si ca tue un ennemi, infligez !SV! dégats à TOUS les ennemis.",
+		"DESCRIPTION": "Piochez !M! carte(s). NL Rechargement: Infligez !D! dégats Perçants. Si ça tue un ennemi, infligez !SV! dégats à TOUS les ennemis.",
 		"NAME": "Rose"
 	},
 	"animator_Veldora":
 	{
-		"DESCRIPTION": "Gagnez !SV! Concentration. NL Active TOUTES les orbes, !M! fois. [#EFC851]Pioché: Canalisez 2 orbes aléatoires.",
+		"DESCRIPTION": "Gagnez !SV! de Concentration. NL Active TOUTES les orbes !M! fois. [#EFC851]Piochée: Canalisez 2 orbes aléatoires.",
 		"NAME": "Veldora"
 	},
 	"animator_NivaLada":
