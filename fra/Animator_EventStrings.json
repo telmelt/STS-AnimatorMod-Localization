@@ -3,7 +3,7 @@
     "NAME": "Le Voyageur Masqué",
     "DESCRIPTIONS": [
       "En longeant ces paysages d'un jeu vidéo #yclairement pas #yréutilisés, un individu masqué équipé d'un sac à dos géant vous approche. NL \"Mes salutations, mon ami, êtes-vous, par chance, en possession de quelques armements @'spéciaux'@ ?\" NL ... NL \"Avez-vous l'intention de faire quelques profits?\" NL \"Ou peut-être préférez-vous d'acheter quelques bijoux de ma ... #ycollection ?\"",
-      "\"A-t-il vraiment accepté?\" NL ... NL NL \"Ahem... Je suis @reconnaissant@ pour le #ytroc , prenez soin de vous dans votre quête.\" NL NL Ceci étant dit, il est disparu de votre vue."
+      "\"A-t-il vraiment accepté?\" NL ... NL NL \"Ahem... Je suis @reconnaissant@ pour le #ytroc , prenez soin de vous dans votre quête.\" NL NL Ceci étant dit, il disparait de votre vue."
     ],
     "OPTIONS": [
       "[Vendre] #gEnlevez ", ". #gGagnez #g", " #gOr.",
@@ -16,18 +16,18 @@
   "Animator_TheDomVedeloper1": {
     "NAME": "Le Dom Vedeloper",
     "DESCRIPTIONS": [
-      "Vous entendez des cris à distance: NL NL \" Rinne devrait agir plus @imprévisiblement@! \" NL \" #yGilgamesh mérite probablement un buff! \" NL \" The #bexplosion girl might be a tad too strong... \" NL NL Vous êtes légèrement intrigué par ces propos... NL Décidez-vous de vous approchez?",
-	  "\"Oh salut bonjour! Ce sont des cartes #pintéressantes, puis-je les examiner un peu?\" NL NL  Sans attendre votre réponse, il a pris toutes vos cartes et les ont classées rapidement. NL NL \"Passionnant... Écoutez, mon ami, que diriez-vous de prendre une place dans notre #ySondage? Bien sûr, vous serez #yrécompensé.\"",
+      "Vous entendez des cris à distance: NL NL \" Rinne devrait agir plus @imprévisiblement@! \" NL \" #yGilgamesh mérite probablement une amélioration! \" NL \" La fille #bexplosive doit être un peu trop forte... \" NL NL Vous êtes légèrement intrigué par ces propos... NL Décidez-vous de vous approchez?",
+	  "\"Oh salut bonjour! Ce sont des cartes #pintéressantes, puis-je les examiner un peu?\" NL NL  Sans attendre votre réponse, il a pris toutes vos cartes et les a classées rapidement. NL NL \"Passionnant... Écoutez, mon ami, que diriez-vous de répondre à notre #ySondage? Bien sûr, vous serez #yrécompensé.\"",
 	  "\"Merveilleux! Merveilleux! Voilà, dites-moi, que pensez-vous de cette carte?\"",
 	  "\"Bien, quant à celle-là?\"",
 	  "\"Fascinant, et cette carte?\"",
 	  "\"Je vois... Finalement, quelle est votre opinion sur celle copie là?\"",
-	  "\"Merci ami, votre récompense telle que promis\" NL NL Vous avez reçu #b100 #yOr. NL NL \"Une dernière chose, acceptez-vous de #gsigner cette feuille?\" NL NL (Si vous acceptez, vos réponses seront envoyées au développeur)",
+	  "\"Merci l'ami, votre récompense comme promis\" NL NL Vous avez reçu #b100 #yOr. NL NL \"Une dernière chose, acceptez-vous de #gsigner cette feuille?\" NL NL (Si vous acceptez, vos réponses seront envoyées au développeur)",
 	  "\"Merci beaucoup, bonne journée à vous!\" NL NL \"... Alors... la prochaine série pourrait être...\""
     ],
     "OPTIONS": [
 	  "[Partir]",
-      "[Accepter] Répondre 4 questions. #gGagnez #g100 #gOr.",
+      "[Accepter] Répondre à 4 questions. #gGagnez #g100 #gOr.",
 	  "[1] C'est absolument trop fort...",
       "[2] C'est une carte très forte!",
 	  "[3] C'est une bonne carte dans beaucoup d'occasions.",
@@ -39,10 +39,10 @@
   },
   "Animator_TheUnnamed":
 	{
-		"NAME": "Le Voyageur Masqué",
+		"NAME": "Le Sans-Nom",
 		"DESCRIPTIONS": [
-			"\"C'est vous! Sur le chemin de battre le @Cœur@ de cette tour?\" NL NL \"Pourquoi ne pas m'aider à débarasser d'une autre menace à la place? Vous voyez, le Sans-Nom est de retour, mais ne vous en faites pas! Il n'est point invincible pour vous!\"",
-			"(Pour combattre le Sans-Nom, vous devrez renoncer à TOUTES vos reliques et potions. De plus, votre PV et votre PV max seront mis à #b100. Vous pourrez choisir 1 des 3 reliques spéciales pour cette bataille finale.)",
+			"\"C'est vous! Vous êtes en route pour battre le @Cœur@ de cette tour?\" NL NL \"Pourquoi ne pas m'aider à me débarasser d'une autre menace à la place? Vous voyez, le Sans-Nom est de retour, mais ne vous en faites pas! Il n'est point invincible pour vous!\"",
+			"(Pour combattre le Sans-Nom, vous devrez renoncer à TOUTES vos reliques et potions. De plus, vos PV et PV max seront mis à #b100. Vous pourrez choisir 1 des 3 reliques spéciales pour cette bataille finale.)",
 			"\"Formidable! Allez tout droit et vous devriez le voir, je compte sur vous!\" NL NL \"... il ne s'en sortira jamais vivant...\""
 		],
 		"OPTIONS": 
