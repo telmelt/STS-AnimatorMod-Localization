@@ -41,11 +41,11 @@
 		"TEXT": 
 		[
 			"Cherche des cartes avec la même Synergie.",
-			"Défausse et pioche X cartes.",
-			"activé X fois cet effet.",
+			"Défaussez et piochez X carte(s).",
+			"activez X fois cet effet.",
 			"réduit son coût pour le combat.",
-			"pioche # carte(s).",
-			"Transform en "
+			"piochez # carte(s).",
+			"Se transforme en "
 		]
 	},
 	
@@ -53,7 +53,7 @@
 	{
 		"TEXT": 
 		[
-		  "Bouge jusqu'à # carte(s) à votre Défausse.",
+		  "Défaussez jusqu'à # carte(s) à votre Défausse.",
 		  "Mélange # carte(s) dans votre Pioche."
 		]
 	},
@@ -68,22 +68,22 @@
 			"Améliorez TOUTES les cartes de votre main.",
 			"Infligez !D! dégât(s) à un ennemi aléatoire !M! fois.",
 			"Infligez !D! dégât(s) à TOUS les ennemis.",
-			"Gagnez !B! d'Armures.",
+			"Gagnez !B! d'Armure.",
 			"Gagnez !M! de Force.",
 			"Gagnez !M! de Dextérité.",
 			"Gagnez !M! d'Épines.",
 			"Réduit le coût de 2 cartes aléatoires dans votre main de !M! ce tour.",
-			"Inflige !M! Faiblesse à TOUS les ennemis.",
-			"Inflige !M! Vulnerabilité à TOUS les ennemis.",
+			"Inflige !M! de Faiblesse à TOUS les ennemis.",
+			"Inflige !M! de Vulnerabilité à TOUS les ennemis.",
 			"Recyclez !M! carte(s)",
 			"Piochez !M! carte(s).",
-			"Gagnez !M! de Temp._PV.",
+			"Gagnez !M! de temp._pv.",
 			"Gagnez !M! de Concentration.",
 			"Gagnez !M! d'Énergie.",
 			"Inflige !M! de Poison à TOUS les ennemis.",
 			"Inflige !M! de [#EFC851]Brûlure à TOUS les ennemis.",
-			"Gagnez !M! d'Intangible",
-			"Gagnez !M! d'Artéfact. NL Enlevez TOUS vos debuffs.",
+			"Gagnez !M! Intangible",
+			"Gagnez !M! Artéfact(s). NL Enlevez TOUTES vos altérations.",
 			"Jouez la carte sur le haut de votre pioche.",
 			"Canalisez !M! des Orbes aléatoire.",
 			"Jouez la carte sur le haut de votre pioche deux fois."
@@ -100,8 +100,8 @@
 			"Choisissez ce deck de départ et complétez l'Acte 4.",
 			"Complétez l'Acte 4 avec la #ymoitié des cartes provenant de cette série dans votre deck.",
 			"Complétez l'Acte 4 avec #b8 cartes #ydifférentes provenant de cette série dans votre deck.",
-			"Complétez l'Acte 4 avec des cartes provenant de #b7 séries #ydifférentes. (Cartes sans couleur ne comptent pas)",
-			"Complétez l'Acte 4 avec des cartes provenant de #b10 séries #ydifférentes, sans bannir aucune carte. (Cartes sans couleur ne comptent pas)",
+			"Complétez l'Acte 4 avec des cartes provenant de #b7 séries #ydifférentes. (Les cartes sans couleur ne comptent pas)",
+			"Complétez l'Acte 4 avec des cartes provenant de #b10 séries #ydifférentes, sans bannir aucune carte. (Les cartes sans couleur ne comptent pas)",
 			"Complétez l'Acte 4 avec #b20 cartes dans votre deck, sans aucune réplique.",
 			"Complétez l'Acte 4 avec #b30 cartes dans votre deck, sans aucune réplique."
 		]
@@ -112,14 +112,14 @@
 		"TEXT": 
 		[
 			"Mais qu'est-ce que c'est? Je suis le seul à posséder un pouvoir infini ici!",
-			"Le Death Note ne fonctionnera pas sur moi! Je n'ai pas de nom, tu t'en souviens?",
+			"Le Death Note ne fonctionnera pas sur moi! Je n'ai pas de nom, t'en souviens-tu?",
 			"Tu m'agaces un peu, je pense que ton tour va bientôt finir...",
 			"Comment oses-tu me défier!",
 			"Je n'ai même pas besoin de t'attaquer...",
 			"Fuis pendant que c'est encore possible.",
 			"Tu appelles ça un deck?",
 			"Tout va finir si vite...",
-			"Comment tu as pu te rendre si loin?",
+			"Comment as-tu pu te rendre si loin?",
 			"Tu sais... Pour progresser, tu dois faire plus de dégâts...",
 			"Gilgamesh ne te sauvera pas.",
 			"Tu as surestimé Megumin.",
@@ -131,7 +131,7 @@
 	{
 		"TEXT": 
 		[
-			"Contient des carte uniquement avec cette Synergie. AVERTISSEMENT: une fois que vous cliquez dessus, les deux autres récompenses disparaîtront.",
+			"Contient des cartes uniquement avec cette Synergie. AVERTISSEMENT: une fois que vous cliquez dessus, les deux autres récompenses disparaîtront.",
 			"Relique en prime",
 			"Relique maudite"
 		]
