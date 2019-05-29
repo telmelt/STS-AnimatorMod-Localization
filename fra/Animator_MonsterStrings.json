@@ -3,304 +3,304 @@
 	"Animator_Dark_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "Dark Cube (S)",
+		"NAME": "Cube des Ténèbres (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "Dark Cube (M)",
+		"NAME": "Cube des Ténèbres (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "Dark Cube (L)",
+		"NAME": "Cube des Ténèbres (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Lightning_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Cube (S)",
+		"NAME": "Cube de Foudre (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Cube (M)",
+		"NAME": "Cube de Foudre (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Cube (L)",
+		"NAME": "Cube de Foudre (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Frost_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "Frost Cube (S)",
+		"NAME": "Cube de Glace (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "Frost Cube (M)",
+		"NAME": "Cube de Glace (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "Frost Cube (L)",
+		"NAME": "Cube de Glace (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Fire_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "Fire Cube (S)",
+		"NAME": "Cube de Feu (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "Fire Cube (M)",
+		"NAME": "Cube de Feu (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "Fire Cube (L)",
+		"NAME": "Cube de Feu (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Healing_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "Healing Cube (S)",
+		"NAME": "Cube Soigneur (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "Healing Cube (M)",
+		"NAME": "Cube Soigneur (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "Healing Cube (L)",
+		"NAME": "Cube Soigneur (L)",
 		"DIALOG": [""]
 	},
 	
 	"Animator_Dark_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "Dark Crystal (S)",
+		"NAME": "Cristal des Ténèbres (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "Dark Crystal (M)",
+		"NAME": "Cristal des Ténèbres (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "Dark Crystal (L)",
+		"NAME": "Cristal des Ténèbres (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Lightning_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Crystal (S)",
+		"NAME": "Cristal de Foudre (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Crystal (M)",
+		"NAME": "Cristal de Foudre (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Crystal (L)",
+		"NAME": "Cristal de Foudre (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Frost_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "Frost Crystal (S)",
+		"NAME": "Cristal de Glace (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "Frost Crystal (M)",
+		"NAME": "Cristal de Glace (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "Frost Crystal (L)",
+		"NAME": "Cristal de Glace (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Fire_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "Fire Crystal (S)",
+		"NAME": "Cristal de Feu (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "Fire Crystal (M)",
+		"NAME": "Cristal de Feu (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "Fire Crystal (L)",
+		"NAME": "Cristal de Feu (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Healing_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "Healing Crystal (S)",
+		"NAME": "Cristal Soigneur (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "Healing Crystal (M)",
+		"NAME": "Cristal Soigneur (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "Healing Crystal (L)",
+		"NAME": "Cristal Soigneur (L)",
 		"DIALOG": [""]
 	},
 	
 	"Animator_Dark_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "Dark Wisp (S)",
+		"NAME": "Wisp des Ténèbres (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "Dark Wisp (M)",
+		"NAME": "Wisp des Ténèbres (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "Dark Wisp (L)",
+		"NAME": "Wisp des Ténèbres (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Lightning_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Wisp (S)",
+		"NAME": "Wisp de Foudre (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Wisp (M)",
+		"NAME": "Wisp de Foudre (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Wisp (L)",
+		"NAME": "Wisp de Foudre (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Frost_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "Frost Wisp (S)",
+		"NAME": "Wisp de Glace (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "Frost Wisp (M)",
+		"NAME": "Wisp de Glace (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "Frost Wisp (L)",
+		"NAME": "Wisp de Glace (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Fire_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "Fire Wisp (S)",
+		"NAME": "Wisp de Feu (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "Fire Wisp (M)",
+		"NAME": "Wisp de Feu (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "Fire Wisp (L)",
+		"NAME": "Wisp de Feu (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Healing_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "Healing Wisp (S)",
+		"NAME": "Wisp Soigneur (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "Healing Wisp (M)",
+		"NAME": "Wisp Soigneur (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "Healing Wisp (L)",
+		"NAME": "Wisp Soigneur (L)",
 		"DIALOG": [""]
 	},
 	
 	"Animator_Ultimate_Cube_3":
 	{
 		"MOVES": [],
-		"NAME": "Ultimate Cube",
+		"NAME": "Cube Ultime",
 		"DIALOG": [""]
 	},
 	"Animator_Ultimate_Wisp_3":
 	{
 		"MOVES": [],
-		"NAME": "Ultimate Wisp",
+		"NAME": "Wisp Ultime",
 		"DIALOG": [""]
 	},
 	"Animator_Ultimate_Crystal_3":
 	{
 		"MOVES": [],
-		"NAME": "Ultimate Crystal",
+		"NAME": "Cristal Ultime",
 		"DIALOG": [""]
 	},
 	
@@ -320,41 +320,41 @@
 	"Animator_TheUnnamedCultist":
 	{
 		"MOVES": [],
-		"NAME": "Cultist",
+		"NAME": "Cultiste",
 		"DIALOG":
 		[
-			"BEHOLD! The Ultimate Crystal!",
-			"BEHOLD! The Ultimate Weapon!",
-			"BEHOLD! The Ultimate @!",
-			"BEHOLD! The Ultimate Gremlin!",
-			"BEHOLD! The Ultimate... Thingy!",
-			"I have a surprise, just give me some time to prepare...",
-			"Still not ready!",
-			"Wait a little longer!",
-			"Almost ready!",
-			"Here it is!",
-			"I am a cultist."			
+			"REGARDE! Le Cristal Ultime!",
+			"REGARDE! L'Arme Ultime!",
+			"REGARDE! L'Ultime @!",
+			"REGARDE! Le Diablotin Ultime!",
+			"REGARDE! L'ultime... Chose!",
+			"J'ai une surprise, laisse moi juste un peu de temps pour me préparer...",
+			"Toujours pas prêt!",
+			"Attends un peu plus!",
+			"Presque prêt!",
+			"Enfin prêt!",
+			"Je suis le Cultiste."			
 		]
 	},
 	"Animator_TheUnnamed":
 	{
 		"MOVES": [],
-		"NAME": "The Unnamed",
+		"NAME": "Le Sans-Nom",
 		"DIALOG": 
 		[
-			"What is this? I am the one with infinite power here!",
-			"The Death Note will not work on me! I have no name, remember?",
-			"You are annoying me, I think your turn will end soon...",
-			"How dare you challenge me!",
-			"I don't even need to attack you...",
-			"You'd better run away while you can.",
-			"You call that a deck?",
-			"It will all end soon...",
-			"How did you even get this far?",
-			"You know... You should deal some damage to progress...",
-			"Gilgamesh will not save you.",
-			"Megumin is overrated.",
-			"You are cheating, I see that Ainz is in your deck..."
+			"Qu'est-ce donc? Je suis celui qui détiens le pouvoir infini ici!",
+			"Le Death Note ne fonctionnera pas sur moi! Je n'ai pas de nom, t'es souviens-tu?",
+			"Tu m'ennuies, je pense que ton tour va vite finir...",
+			"Comment oses-tu me défier!",
+			"Je n'ai même pas besoin de t'attaquer...",
+			"Tu ferais mieux de fuir tant que tu le peux.",
+			"Tu appelle ça un deck?",
+			"Tout finira bientôt...",
+			"Comment as-tu fait pour arriver aussi loin?",
+			"Tu sais... Tu devrais faire des dégâts pour progresser...",
+			"Gilgamesh ne te sauvera pas.",
+			"Tu as sous-estimé Megumin.",
+			"Tu triches, je vois bien qu'Ainz est dans ton deck..."
 		]
 	}
 }
