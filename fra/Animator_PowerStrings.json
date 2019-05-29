@@ -2,52 +2,52 @@
 {
 	"animator_AinzPower":
 	{
-		"DESCRIPTIONS": ["Au début de votre tour active 1 parmis 4 effects aléatoire #b", " fois."],
+		"DESCRIPTIONS": ["Au début de votre tour, active 1 effet parmis 4 aléatoires #b", " fois."],
 		"NAME": "Ainz Ooal Gown"
 	},
 	"animator_ArcherPower":
 	{
-		"DESCRIPTIONS": ["A la fin de votre tour, inflige #b", " dégat(s) à tous les ennemis avec un Debuff."],
+		"DESCRIPTIONS": ["A la fin de votre tour, inflige #b", " dégat(s) à tous les ennemis avec une altération."],
 		"NAME": "Archer"
 	},
 	"animator_AzrielPower":
 	{
-		"DESCRIPTIONS": ["Quand vous infligez un debuff a un ennemi, gagnez #b", " Force."],
+		"DESCRIPTIONS": ["Quand vous infligez une altération a un ennemi, gagnez #b", " de Force."],
 		"NAME": "Azriel"
 	},
 	"animator_BiyorigoPower":
 	{
-		"DESCRIPTIONS": ["Toutes 4 #yAttaques joué, gagnez #b", " Force et #b", " Dextérité."],
+		"DESCRIPTIONS": ["Toutes les 4 #yAttaques jouées, gagnez #b", " de Force et #b", " de Dextérité."],
 		"NAME": "Bito Kanzashi"
 	},
 	"animator_BozesPower":
 	{
-		"DESCRIPTIONS": ["Quand une carte #ySynergizes, gagnez #b", " d'Armure."],
+		"DESCRIPTIONS": ["Quand une carte #ySynergises, gagnez #b", " d'Armure."],
 		"NAME": "Bozes Co Palesti"
 	},
 	"animator_BurningPower":
 	{
-		"DESCRIPTIONS": ["Subissez #b", " dégat(s) à la fin du tour. Recevez #b", "% dégats sur #yAttaques supplémentaires ."],
+		"DESCRIPTIONS": ["Subissez #b", " dégat(s) à la fin du tour. Recevez #b", "% de dégats supplémentaires aux #yAttaques ."],
 		"NAME": "Brûlure"
 	},
 	"animator_ChlammyZellPower":
 	{
-		"DESCRIPTIONS": ["Quand vous joué les types de carte de manière altenatives , infligez #b", " dégat(s) à TOUS les ennemis et #yRecycler #b1 carte. NL NL Dernier type joué: #y"],
+		"DESCRIPTIONS": ["Quand vous jouez les types de cartes de manière altenée , infligez #b", " dégat(s) à TOUS les ennemis et #yRecyclez #b1 carte. NL NL Dernier type joué: #y"],
 		"NAME": "Chlammy Zell"
 	},
 	"animator_DarknessPower":
 	{
-		"DESCRIPTIONS": ["Quand vous subissez des dégats, amélioré #b", " des cartes aléatoires, en priorisant votre main."],
+		"DESCRIPTIONS": ["Quand vous subissez des dégats, améliorez #b", " cartes aléatoires, en priorité celle dans votre main."],
 		"NAME": "Dustiness Ford Lalatina"
 	},
 	"animator_DelayedHealPower":
 	{
-		"DESCRIPTIONS": ["Soigner #g", " PV au début de votre prochain tour."],
+		"DESCRIPTIONS": ["Soignez #g", " PV au début de votre prochain tour."],
 		"NAME": "Soin retardé"
 	},
 	"animator_EarthenThornsPower":
 	{
-		"DESCRIPTIONS": ["Quand attaqué, inflige #b", " dégat(s) en retour."],
+		"DESCRIPTIONS": ["Quand vous êtes attaqué, inflige #b", " dégat(s) en retour."],
 		"NAME": "Epine de terre"
 	},
 	"animator_EmiyaShirouPower":
@@ -57,37 +57,37 @@
 	},
 	"animator_EnchantedArmorPower":
 	{
-		"DESCRIPTIONS": ["Reçoit #b", "% moins de dégât(s) de TOUTES les sources."],
+		"DESCRIPTIONS": ["Reçoit #b", "% de dégât(s) en moins de TOUTES les sources."],
 		"NAME": "Armure Enchantée"
 	},
 	"animator_EntouJyuuPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaines #b", " #yAttaques joué ce tour gagne #b", " dégats et piochez 1 card."],
+		"DESCRIPTIONS": ["Vos prochaines #b", " #yAttaques jouées ce tour gagne #b", " dégats et vous piochez 1 carte."],
 		"NAME": "Entou Jyuu"
 	},
 	"animator_EnvyPower":
 	{
-		"DESCRIPTIONS": ["La première #b", " carte joué chaque tour Synergize."],
+		"DESCRIPTIONS": ["La première #b", " carte jouée chaque tour Synergise."],
 		"NAME": "Envy"
 	},
 	"animator_EvePower":
 	{
-		"DESCRIPTIONS": ["Quand une carte #ySynergizes, inflige #b", " dégats à un ennemi aléatoire, puis augmente ces dégats de 1."],
+		"DESCRIPTIONS": ["Quand une carte #ySynergise, inflige #b", " dégats à un ennemi aléatoire, puis augmente ces dégats de 1."],
 		"NAME": "Eve"
 	},
 	"animator_FeridBathoryPower":
 	{
-		"DESCRIPTIONS": ["Quand une carte est épuisé gagnez #b", " Force et Soignez #b", " PV."],
+		"DESCRIPTIONS": ["Quand une carte est épuisée gagnez #b", " de Force et Soignez #b", " PV."],
 		"NAME": "Ferid Bathory"
 	},
 	"animator_FlamingWeaponPower":
 	{
-		"DESCRIPTIONS": ["Tout dégats non bloqué, inflige #b", " Brûlure."],
+		"DESCRIPTIONS": ["Tout dégat non bloqué inflige #b", " Brûlure."],
 		"NAME": "Arme Enflammé"
 	},
 	"animator_GazelDwargonPower":
 	{
-		"DESCRIPTIONS": ["Gardez la moitié de votre armure au début de votre tour, Quand vous joué une #yAttaque, gagnez #b", " d'Armure."],
+		"DESCRIPTIONS": ["Gardez la moitié de votre armure au début de votre tour. Quand vous jouez une #yAttaque, gagnez #b", " d'Armure."],
 		"NAME": "Gazel Dwargon"
 	},
 	"animator_GeassPower":
@@ -97,7 +97,7 @@
 	},
 	"animator_GuildGirlPower":
 	{
-		"DESCRIPTIONS": ["Au début de votre tour Recycler #b", " cartes."],
+		"DESCRIPTIONS": ["Au début de votre tour Recyclez #b", " cartes."],
 		"NAME": "Bookkeeping"
 	},
 	"animator_HigakiRinnePower":
@@ -107,14 +107,14 @@
 	},
 	"animator_HiteiPower":
 	{
-		"DESCRIPTIONS": ["Au début de votre tour gagnez un #yBuff aléatoire, puis Choisissez et Epuisé #b", " cartes de votre deck."],
+		"DESCRIPTIONS": ["Au début de votre tour gagnez une #yAmélioration aléatoire, puis Choisissez et Epuisez #b", " cartes de votre deck."],
 		"NAME": "Princess Hitei"
 	},
 	"animator_InfinitePower":
 	{
 		"DESCRIPTIONS": 
 		[
-			"- Avant de prendre des dégâts non-bloqués: Gagnez autant #yd'Armure #yEnchantée. NL - En recevant les Debuffs: Gagnez autant de #yRegénération. NL - Lorsque l'ennemi reçoit un Buff: Gagnez autant de #yForce. NL NL Ces Buffs seront diminués de moitié à chaque fin de tour."
+			"- Avant de prendre des dégâts non-bloqués: Gagnez autant #yd'Armure #yEnchantée. NL - En recevant des altérations: Gagnez autant de #yRegénération. NL - Lorsque l'ennemi reçoit une amélioration: Gagnez autant de #yForce. NL NL Ces améliorations seront diminués de moitié à chaque fin de tour."
 		],
 		"NAME": "Pouvoir Infini"
 	},
@@ -150,7 +150,7 @@
 		[
 			"À la mort, invoque #b", " crystaux aléatoires."
 		],
-		"NAME": "Crystal Ultime"
+		"NAME": "Cristal Ultime"
 	},
 	"animator_UltimateWispPower":
 	{
@@ -175,7 +175,7 @@
 		[
 			"En perdant la totalité de son #yArmure, applique #b", " de #yConstriction à TOUS les autres personnages."
 		],
-		"NAME": "Crystal Tenébreux"
+		"NAME": "Cristal Tenébreux"
 	},
 	"animator_DarkWispPower":
 	{
@@ -200,7 +200,7 @@
 		[
 			"En perdant la totalité de son Armure, TOUS les autres personnages reçoivent #b", " dégâts #yPerçants."
 		],
-		"NAME": "Crystal Foudroyant"
+		"NAME": "Cristal Foudroyant"
 	},
 	"animator_LightningWispPower":
 	{
@@ -225,7 +225,7 @@
 		[
 			"En perdant la totalité de son Armure, TOUS les autres personnages gagne #b", " PV."
 		],
-		"NAME": "Crystal Curatif"
+		"NAME": "Cristal Curatif"
 	},
 	"animator_HealingWispPower":
 	{
@@ -250,7 +250,7 @@
 		[
 			"En perdant la totalité de son Armure, TOUS les autres personnages gagne #b", " #yd'Armure #yPlaquée."
 		],
-		"NAME": "Crystal Glacial"
+		"NAME": "Cristal Glacial"
 	},
 	"animator_FrostWispPower":
 	{
@@ -275,7 +275,7 @@
 		[
 			"En perdant la totalité de son Armure, TOUS les autres personnages #b", " de #yForce et de #yBrûlure."
 		],
-		"NAME": "Crystal Ardent"
+		"NAME": "Cristal Ardent"
 	},
 	"animator_FireWispPower":
 	{
@@ -287,22 +287,22 @@
 	},
 	"animator_KaijinPower":
 	{
-		"DESCRIPTIONS": ["A la fin de votre tour, increase l'#yArmure et dégats d'une carte aléatoire de votre pioche #b", "."],
+		"DESCRIPTIONS": ["A la fin de votre tour, augmente l'#yArmure et dégats d'une carte aléatoire de votre pioche de #b", "."],
 		"NAME": "Kaijin"
 	},
 	"animator_MarkOfPoisonPower":
 	{
-		"DESCRIPTIONS": ["Quand vous subissez des sommages, subissez aussi #b", " #yPoison."],
+		"DESCRIPTIONS": ["Quand vous subissez des dommages, subissez aussi #b", " #yPoison."],
 		"NAME": "Marque de Poison"
 	},
 	"animator_OrbCore_ChaosPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, #yDécouvre #b", " cartes."],
+		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, #yDécouvrez #b", " cartes."],
 		"NAME": "Noyau de Chaos"
 	},
 	"animator_OrbCore_DarkPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, piochez #b", " carte, puis défaussé #b1 carte."],
+		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, piochez #b", " carte, puis défaussez #b1 carte."],
 		"NAME": "Noyau de Tenèbre"
 	},
 	"animator_OrbCore_EarthPower":
@@ -327,7 +327,7 @@
 	},
 	"animator_OrbCore_PlasmaPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, gagnez #b", " #yEnergie."],
+		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, gagnez #b", " d'#yEnergie."],
 		"NAME": "Noyau de Plasma"
 	},
 	"animator_PinaCoLadaPower":
@@ -347,12 +347,12 @@
 	},
 	"animator_PridePower":
 	{
-		"DESCRIPTIONS": ["Jusqu'à votre prochain tour, tous dégats non bloqué, diminuera les dégats de votre Orbe des #yTenèbres à la place."],
-		"NAME": "Fierté"
+		"DESCRIPTIONS": ["Jusqu'à votre prochain tour, tous dégats non bloqués diminuera les dégats de votre Orbe des #yTenèbres à la place."],
+		"NAME": "Pride"
 	},
 	"animator_RoryMercuryPower":
 	{
-		"DESCRIPTIONS": ["Vos #yAttaques ce tour inflige #b", "% dégat(s) supplémentaires."],
+		"DESCRIPTIONS": ["Vos #yAttaques ce tour inflige #b", "% de dégat(s) supplémentaires."],
 		"NAME": "Rory Mercury"
 	},
 	"animator_ShiroPower":
@@ -362,22 +362,22 @@
 	},
 	"animator_StolenGoldPower":
 	{
-		"DESCRIPTIONS": ["Vous avez volé #b", " Or. Vous pouvez encore volé #b", " Or."],
-		"NAME": "Stolen Gold"
+		"DESCRIPTIONS": ["Vous avez volé #b", " Or. Vous pouvez encore voler #b", " Or."],
+		"NAME": "Or Volé"
 	},
 	"animator_StrategicInformationPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaine #b", " fois que vous défaussé une carte, gagnez #b", " d'#yArmure et infligez #b", " dégats à l'ennemi le plus bas en PV."],
-		"NAME": "Strategic Information"
+		"DESCRIPTIONS": ["Vos prochaine #b", " fois que vous défaussez une carte, gagnez #b", " d'#yArmure et infligez #b", " dégats à l'ennemi avec les PV le plus bas."],
+		"NAME": "Information Stratégique"
 	},
 	"animator_SupportDamagePower":
 	{
-		"DESCRIPTIONS": ["Infligez #b", " dégats à l'ennemi le plus bas en PV à la fin de votre tour."],
-		"NAME": "Support Damage"
+		"DESCRIPTIONS": ["Infligez #b", " dégats à l'ennemi avec les PV le plus bas à la fin de votre tour."],
+		"NAME": "Dommage de Support"
 	},
 	"animator_YukoShionjiPower":
 	{
-		"DESCRIPTIONS": ["Révèle la carte au dessus de votre deck, NL #pClic-Gauche pour la piocher ( #b", " utilisations ), ou #pClic-Droit pour la défaussé ( #b", " utilisations)."],
+		"DESCRIPTIONS": ["Révèle la carte au dessus de votre deck, NL #pClic-Gauche pour la piocher ( #b", " utilisations ), ou #pClic-Droit pour la défausser ( #b", " utilisations)."],
 		"NAME": "Yuko Shionji"
 	}
 }
