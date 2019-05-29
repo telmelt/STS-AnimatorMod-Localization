@@ -1,26 +1,26 @@
 [
 	{
-		"DESCRIPTION": "S'active si la dernière carte joué et de la même série.",
-		"NAMES": ["synergie", "synergy", "synergies", "synergize", "synergizes", "synergiser"],
+		"DESCRIPTION": "S'active si la dernière carte jouée est de la même série.",
+		"NAMES": ["synergie", "synergy", "synergies", "synergize", "synergizes", "synergiser", "synergise"],
 		"PROPERNAME": "Synergie"
 	},
 	{
-		"DESCRIPTION": "S'active quand cette carte est épuisé.",
+		"DESCRIPTION": "S'active quand cette carte est épuisée.",
 		"NAMES": ["héritage"],
 		"PROPERNAME": "Héritage"
 	},
 	{
-		"DESCRIPTION": "Quand cette carte est joué et défaussé, elle est remise dans votre pioche.",
+		"DESCRIPTION": "Quand cette carte est jouée et défaussée, elle retourne dans votre pioche.",
 		"NAMES": ["loyale"],
 		"PROPERNAME": "Loyale"
 	},
 	{
-		"DESCRIPTION": "Subit un #yDebuff ou Effect quand recoit des dommages. dure 1 turn.",
+		"DESCRIPTION": "Subit une #yAltération ou un Effet quand recoit des dommages. Dure 1 tour.",
 		"NAMES": ["mark", "marks"],
-		"PROPERNAME": "Mark"
+		"PROPERNAME": "Marqué"
 	},
 	{
-		"DESCRIPTION": "Si la cible à moins de #b50% PV, fait des double damage.",
+		"DESCRIPTION": "Si la cible à moins de #b50% PV, double les dommages.",
 		"NAMES": ["cherchecoeur"],
 		"PROPERNAME": "ChercheCoeur"
 	},
@@ -30,32 +30,32 @@
 		"PROPERNAME": "Perçant"
 	},
 	{
-		"DESCRIPTION": "Si vous devez mourir et que cette carte est dans votre Pioche ou votre Défausse, annule les dommage puis est retiré définitivement de votre deck",
+		"DESCRIPTION": "Si vous devez mourir et que cette carte est dans votre Pioche ou votre Défausse, annule les dommages puis est retirée définitivement de votre deck",
 		"NAMES": ["resurrection"],
 		"PROPERNAME": "Resurrection"
 	},
 	{
-		"DESCRIPTION": "Est réduit de #b1 chaque fois que cette carte est #yjoué ou #ydéfaussé, arrivé à #b0, active l'effet et reset le Cooldown. NL Resets à la fin de chaque combat.",
+		"DESCRIPTION": "Est réduit de #b1 chaque fois que cette carte est #yjouée ou #ydéfaussée, arrivée à #b0, active l'effet et reset le Cooldown. NL Resets à la fin de chaque combat.",
 		"NAMES": ["cooldown"],
 		"PROPERNAME": "Cooldown"
 	},
 	{
-		"DESCRIPTION": "Ne peut agir pour #b1 tour.",
+		"DESCRIPTION": "Ne peut agir pendant #b1 tour.",
 		"NAMES": ["stun", "stunned", "stslib:stunned", "assome", "assomé", "assomer"],
-		"PROPERNAME": "Stun"
+		"PROPERNAME": "Etourdi"
 	},
 	{
-		"DESCRIPTION": "Pour chaque carte joué ce tour, l'ennemi subit #b10% de dégats supplémentaire des #yAttaques.",
+		"DESCRIPTION": "Pour chaque carte jouée ce tour, l'ennemi subit #b10% de dégats supplémentaires aux #yAttaques.",
 		"NAMES": ["slow"],
 		"PROPERNAME": "Slow"
 	},
 	{
-		"DESCRIPTION": "Synergiser avec toutes les cartes.",
+		"DESCRIPTION": "Synergise avec toutes les cartes.",
 		"NAMES": ["changeforme"],
 		"PROPERNAME": "Changeforme"
 	},
 	{
-		"DESCRIPTION": "Défausser puis piocher autant de carte.",
+		"DESCRIPTION": "Défaussez puis piochez autant de cartes.",
 		"NAMES": ["cycle", "recyclez", "recycle"],
 		"PROPERNAME": "Recyclez"
 	},
@@ -75,33 +75,33 @@
 		"PROPERNAME": "Constriction"
 	},
 	{
-		"DESCRIPTION": "S'active quand une carte est Défaussé ou Recyclé.",
+		"DESCRIPTION": "S'active quand une carte est Défaussée ou Recyclée.",
 		"NAMES": ["rappel"],
 		"PROPERNAME": "Rappel"
 	},
 	{
 		"DESCRIPTION": "S'active quand un ennemi perd son armure durant cette attaque.",
 		"NAMES": ["overrun"],
-		"PROPERNAME": "Overrun"
+		"PROPERNAME": "Dépassement"
 	},
 	{
-		"DESCRIPTION": "Tant que le compter est supérieur à 0, NL active l'effet puis diminue de 1. Resets à chaque fin de combat.",
+		"DESCRIPTION": "Tant que le compteur est supérieur à 0, NL active l'effet puis diminue de 1. Resets à chaque fin de combat.",
 		"NAMES": ["boost"],
 		"PROPERNAME": "Boost"
 	},
 	{
 		"NAMES": ["terre", "terre+"],
-		"DESCRIPTION": "Orbe: Gagne #yEpine quand #yCanalisé. Automatiquement #yEvoqué après 3 tour et inflige des dégats réparti entre les ennemis.",
+		"DESCRIPTION": "Orbe: Gagne #yEpine quand #yCanalisée. Automatiquement #yActivée après 3 tour et inflige des dégats réparti entre les ennemis.",
 		"PROPERNAME": "Terre"
 	},
 	{
 		"NAMES": ["feu", "feu+"],
-		"DESCRIPTION": "Orbe: Inflige #yBrûlure et blesse l'ennemi le plus haut en PV.",
+		"DESCRIPTION": "Orbe: Inflige #yBrûlure et blesse l'ennemi ayant le plus de PV.",
 		"PROPERNAME": "Feu"
 	},
 	{
 		"NAMES": ["flou"],
-		"DESCRIPTION": "Votre #yArmure will ne s'enlève pas au prochain tour.",
+		"DESCRIPTION": "Votre #yArmure ne s'enlève pas au prochain tour.",
 		"PROPERNAME": "Flou"
 	},
 	{
@@ -111,7 +111,7 @@
 	},
 	{
 		"NAMES": ["envenom", "envenimer", "d'envenimer"],
-		"DESCRIPTION": "Tout dégats non bloqué, inflige #b1 Poison par coup.",
+		"DESCRIPTION": "Tout dégat non bloqué inflige #b1 Poison par coup.",
 		"PROPERNAME": "Envenimer"
 	},
 	{
@@ -122,11 +122,11 @@
 	{
 		"NAMES": ["choked"],
 		"DESCRIPTION": "Quand vous jouer une carte, perd 1 PV.",
-		"PROPERNAME": "Choked"
+		"PROPERNAME": "Etranglé"
 	},
 	{
 		"NAMES": ["noyau d'orbe", "noyau_d'orbe", "noyau_de_feu", "noyau_de_terre", "noyau_de_foudre", "noyau_de_plasma", "noyau_de_feu", "noyau_de_gel"],
-		"DESCRIPTION": "#yPouvoir: #yCanalise 1 orbe à l'utilisation, octroyant un bonus à la seconde #ySynergie de chaque tour.",
+		"DESCRIPTION": "#yPouvoir: #yCanalise 1 orbe à l'utilisation, octroie un bonus à la seconde #ySynergie de chaque tour.",
 		"PROPER_NAME": "Noyau d'orbe"
 	},
 	{
@@ -137,7 +137,7 @@
 	{
 		"PROPER_NAME": "Armure Enchantée",
 		"NAMES": ["armure enchantée", "armure_enchantée", "d'armure enchantée", "d'armure_enchantée","d'armure ench", "d'armure_ench"],
-		"DESCRIPTION": "Subissez moins de dégâts de TOUTES les sources. De moins en moins efficaces."
+		"DESCRIPTION": "Subissez moins de dégâts de TOUTES les sources. De moins en moins efficace."
 	},
 	{
 		"PROPER_NAME": "Artiste Martial",
@@ -157,7 +157,7 @@
 	{
 		"PROPER_NAME": "Paresse",
 		"NAMES": ["paresse", "paresseux"],
-		"DESCRIPTION": "Les dégats de cette cartes peuvent être retardé de plusieurs tours."
+		"DESCRIPTION": "Les dégats de cette carte peuvent être retardés de plusieurs tours."
 	},
 	{
 		"PROPER_NAME": "Barrière de flamme",
@@ -165,14 +165,14 @@
 		"DESCRIPTION": "Jusqu'au prochain tour, chaque fois que vous subissez des dommages, inflige 1 dégat à l'ennemi."
 	},
 	{
-		"PROPER_NAME": "Rebound",
+		"PROPER_NAME": "Rebond",
 		"NAMES": ["rebound"],
 		"DESCRIPTION": "La prochaine carte que vous jouer retourne sur le haut de votre pioche."
 	},
 	{
 		"PROPER_NAME": "Couteau de jet",
 		"NAMES": ["couteau de jet", "couteau_de_jet", "couteaux de jet", "couteaux_de_jet"],
-		"DESCRIPTION": "Les couteaux de jets sont des cartes d'Attaque qui coûtent 0 appliquant un debuff et s'épuisent."
+		"DESCRIPTION": "Les couteaux de jets sont des cartes d'Attaque qui coûtent 0, appliquent une altération et s'épuisent."
 	},
 	{
 		"PROPER_NAME": "Découvrir",
@@ -182,7 +182,7 @@
 	{
 		"PROPER_NAME": "PV Temporaire",
 		"NAMES": ["temp. hp", "temp._hp", "temp._pv", "temp. pv" ],
-		"DESCRIPTION": "Les PV Temporaire disparaisse à la fin du combat."
+		"DESCRIPTION": "Les PV Temporaires disparaissent à la fin du combat."
 	},
 	{
 		"PROPER_NAME": "Vol",
@@ -192,15 +192,15 @@
 	{
 		"PROPER_NAME": "Arme Enflammée",
 		"NAMES": ["arme enflammée", "arme_enflammée"],
-		"DESCRIPTION": "Tout dégats non bloqué, inflige #b1 Brûlure par coup."
+		"DESCRIPTION": "Tout dégat non bloqué inflige #b1 Brûlure par coup."
 	},
 	{
 		"PROPER_NAME": "Juggernaut",
 		"NAMES": ["juggernaut"],
-		"DESCRIPTION": "Quand vous gagnez de #yl'Armure, infligé des dégats à un ennemi aléatoire."
+		"DESCRIPTION": "Quand vous gagnez de #yl'Armure, infligez des dégats à un ennemi aléatoire."
 	},
 	{
-		"PROPER_NAME": "Support Damage",
+		"PROPER_NAME": "Dommage de Support",
 		"NAMES": ["support damage", "support_damage"],
 		"DESCRIPTION": "Inflige des dégats à l'ennemi avec le moins de PV."
 	}
