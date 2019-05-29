@@ -6,8 +6,8 @@
 		"DESCRIPTION":
 		[
 			"#yPassif: A la fin du tour, gagnez #b",
-			" #yEpines temporaire. NL #yActivation: Inflige #b",
-			" dégats réparti aléatoire parmis TOUS les ennemis. NL Après #b",
+			" #yEpines temporaires. NL #yActivation: Inflige #b",
+			" dégats réparti de façon aléatoire entre TOUS les ennemis. NL Après #b",
 			" tour, #yActive automatique cette Orbe."
 		]
 	},
@@ -16,8 +16,8 @@
 		"NAME": "Feu",
 		"DESCRIPTION":
 		[
-			"#yPassif: A la fin du tour, inflige #b", " dégats à l'ennemi le plus haut en PV et infligé #b",
-			" #yBrûlure. NL #yActivation: Inflige #b",
+			"#yPassif: A la fin du tour, inflige #b", " dégats et #b de #yBrûlure à l'ennemi avec",
+			" le plus de PV. NL #yActivation: Inflige #b",
 			" #yBrûlure à TOUS les ennemis."
 		]
 	}
